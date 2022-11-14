@@ -1,0 +1,18 @@
+/* css styles */
+
+img.thumbnail {
+    margin: 10px;
+    max-width:130px;
+    max-height: 100px;
+}
+
+p.authors {
+    font-size: 80%;
+}
+
+
+p.paper {
+    margin-bottom: 4px;
+}
+
+
