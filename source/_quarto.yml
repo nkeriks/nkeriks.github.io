@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Nick Eriksson"
+  search: false
+  navbar:
+    pinned: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: papers.qmd
+        text: Papers
+      - href: /pdf/eriksson-cv.pdf
+        text: CV
+    right:
+      - icon: google
+        text: Google Scholar
+        href: http://scholar.google.com/citations?user=5kf1vNwAAAAJ
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/nkeriks
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/nick-eriksson-1571549/
+      - icon: github
+        text: Github
+        href: https://github.com/nkeriks
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: true

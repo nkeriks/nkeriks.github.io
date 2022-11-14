@@ -1,0 +1,1853 @@
+2020.09.handedness:
+  category:
+  - genetics
+  title: Genome-wide association study identifies 48 common genetic variants associated
+    with handedness
+  authors: 'Gabriel Cuellar-Partida, Joyce Y. Tung, N. Eriksson, Eva Albrecht, Fazil
+    Aliev, Ole A. Andreassen, Inês Barroso, Jacques S. Beckmann, Marco P. Boks, Dorret
+    I. Boomsma, Heather A. Boyd, Monique M. B. Breteler, Harry Campbell, Daniel I.
+    Chasman, Lynn F. Cherkas, Gail Davies, Eco J. C. de Geus, Ian J. Deary, Panos
+    Deloukas, Danielle M. Dick, David L. Duffy, Johan G. Eriksson, Tõnu Esko, Bjarke
+    Feenstra, Frank Geller, Christian Gieger, Ina Giegling, Scott D. Gordon, Jiali
+    Han, Thomas F. Hansen, Annette M. Hartmann, Caroline Hayward, Kauko Heikkilä,
+    Andrew A. Hicks, Joel N. Hirschhorn, Jouke-Jan Hottenga, Jennifer E. Huffman,
+    Liang-Dar Hwang, M. Arfan Ikram, Jaakko Kaprio, John P. Kemp, Kay-Tee Khaw, Norman
+    Klopp, Bettina Konte, Zoltan Kutalik, Jari Lahti, Xin Li, Ruth J. F. Loos, Michelle
+    Luciano, Sigurdur H. Magnusson, Massimo Mangino, Pedro Marques-Vidal, Nicholas
+    G. Martin, Wendy L. McArdle, Mark I. McCarthy, Carolina Medina-Gomez, Mads Melbye,
+    Scott A. Melville, Andres Metspalu, Lili Milani, Vincent Mooser, Mari Nelis, Dale
+    R. Nyholt, Kevin S. O’Connell, Roel A. Ophoff, Cameron Palmer, Aarno Palotie,
+    Teemu Palviainen, Guillaume Pare, Lavinia Paternoster, Leena Peltonen, Brenda
+    W. J. H. Penninx, Ozren Polasek, Peter P. Pramstaller, Inga Prokopenko, Katri
+    Raikkonen, Samuli Ripatti, Fernando Rivadeneira, Igor Rudan, Dan Rujescu, Johannes
+    H. Smit, George Davey Smith, Jordan W. Smoller, Nicole Soranzo, Tim D. Spector,
+    Beate St Pourcain, John M. Starr, Hreinn Stefánsson, Stacy Steinberg, Maris Teder-Laving,
+    Gudmar Thorleifsson, Kári Stefánsson, Nicholas J. Timpson, André G. Uitterlinden,
+    Cornelia M. van Duijn, Frank J. A. van Rooij, Jaqueline M. Vink, Peter Vollenweider,
+    Eero Vuoksimaa, Gérard Waeber, Nicholas J. Wareham, Nicole Warrington, Dawn Waterworth,
+    Thomas Werge, H.-Erich Wichmann, Elisabeth Widen, Gonneke Willemsen, Alan F. Wright,
+    Margaret J. Wright, Mousheng Xu, Jing Hua Zhao, Peter Kraft, David A. Hinds, Cecilia
+    M. Lindgren, Reedik Mägi, Benjamin M. Neale, David M. Evans, and Sarah E. Medland '
+  abstract: ''
+  citation: <i>Nature Human Behaviour</i> (2020)
+  summary: A huge GWAS of handedness
+  thumbnail: hand.png
+  links:
+  - name: Nature Human Behaviour
+    url: https://www.nature.com/articles/s41562-020-00956-y
+  - name: bioarxiv
+    url: https://www.biorxiv.org/content/10.1101/831321v3
+2019.04.aging:
+  category:
+  - genetics
+  title: Inferring Multidimensional Rates of Aging from Cross-Sectional Data
+  authors: E. Pierson, P.W. Koh, T. Hashimoto, D. Koller, J. Leskovec, N. Eriksson,
+    and P. Liang
+  abstract: Modeling how individuals evolve over time is a fundamental problem in
+    the natural and social sciences. However, existing datasets are often cross-sectional
+    with each individual observed only once, making it impossible to apply traditional
+    time-series methods. Motivated by the study of human aging, we present an interpretable
+    latent-variable model that learns temporal dynamics from cross-sectional data.
+    Our model represents each individual’s features over time as a nonlinear function
+    of a low-dimensional, linearly-evolving latent state. We prove that when this
+    nonlinear function is constrained to be order-isomorphic, the model family is
+    identifiable solely from cross-sectional data provided the distribution of time-independent
+    variation is known. On the UK Biobank human health dataset, our model reconstructs
+    the observed data while learning interpretable rates of aging associated with
+    diseases, mortality, and aging risk factors.
+  citation: '<i>Proc Mach Learn Res.</i> 2019 Apr; 89: 97–107.'
+  summary: Machine learning for inferring rates of aging
+  thumbnail: long_rates.png
+  links:
+  - name: PMC
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6752884/
+2018.08.pdself:
+  category:
+  - genetics
+  title: Self-report data as a tool for subtype identification in genetically-defined
+    Parkinson’s disease
+  authors: A.R. Winslow, C.L. Hyde, J.B. Wilk, N. Eriksson, P. Cannon, M.R. Miller,
+    W.D. Hirst
+  abstract: ''
+  citation: '<i>Scientific Reports</i> volume 8, Article number: 12992 (2018)'
+  summary: Validation of self-reported PD data
+  thumbnail: pd_self.png
+  links:
+  - name: Scientific Reports
+    url: https://www.nature.com/articles/s41598-018-30843-6
+2018.06.brain:
+  category:
+  - genetics
+  title: Analysis of shared heritability in common disorders of the brain
+  authors: Verneri Anttila, Brendan Bulik-Sullivan, Hilary K Finucane, Raymond K Walters,
+    Jose Bras, Laramie Duncan, Valentina Escott-Price, Guido J Falcone, Padhraig Gormley,
+    Rainer Malik, Nikolaos A Patsopoulos, Stephan Ripke, Zhi Wei, Dongmei Yu, Phil
+    H Lee, Patrick Turley, Benjamin Grenier-Boley, Vincent Chouraki, Yoichiro Kamatani,
+    Claudine Berr, Luc Letenneur, Didier Hannequin, Philippe Amouyel, Anne Boland,
+    Jean-François Deleuze, Emmanuelle Duron, Badri N Vardarajan, Christiane Reitz,
+    Alison M Goate, Matthew J Huentelman, M Ilyas Kamboh, Eric B Larson, Ekaterina
+    Rogaeva, Peter St George-Hyslop, Hakon Hakonarson, Walter A Kukull, Lindsay A
+    Farrer, Lisa L Barnes, Thomas G Beach, F Yesim Demirci, Elizabeth Head, Christine
+    M Hulette, Gregory A Jicha, John SK Kauwe, Jeffrey A Kaye, James B Leverenz, Allan
+    I Levey, Andrew P Lieberman, Vernon S Pankratz, Wayne W Poon, Joseph F Quinn,
+    Andrew J Saykin, Lon S Schneider, Amanda G Smith, Joshua A Sonnen, Robert A Stern,
+    Vivianna M Van Deerlin, Linda J Van Eldik, Denise Harold, Giancarlo Russo, David
+    C Rubinsztein, Anthony Bayer, Magda Tsolaki, Petra Proitsi, Nick C Fox, Harald
+    Hampel, Michael J Owen, Simon Mead, Peter Passmore, Kevin Morgan, Markus M Nöthen,
+    Jonathan M Schott, Martin Rossor, Michelle K Lupton, Per Hoffmann, Johannes Kornhuber,
+    Brian Lawlor, Andrew Mcquillin, Ammar Al-Chalabi, Joshua C Bis, Agustin Ruiz,
+    Mercè Boada, Sudha Seshadri, Alexa Beiser, Kenneth Rice, Sven J van der Lee, Philip
+    L De Jager, Daniel H Geschwind, Matthias Riemenschneider, Steffi Riedel-Heller,
+    Jerome I Rotter, Gerhard Ransmayr, Bradley T Hyman, Carlos Cruchaga, Montserrat
+    Alegret, Bendik Winsvold, Priit Palta, Kai-How Farh, Ester Cuenca-Leon, Nicholas
+    Furlotte, Tobias Kurth, Lannie Ligthart, Gisela M Terwindt, Tobias Freilinger,
+    Caroline Ran, Scott D Gordon, Guntram Borck, Hieab HH Adams, Terho Lehtimäki,
+    Juho Wedenoja, Julie E Buring, Markus Schürks, Maria Hrafnsdottir, Jouke-Jan Hottenga,
+    Brenda Penninx, Ville Artto, Mari Kaunisto, Salli Vepsäläinen, Nicholas G Martin,
+    Grant W Montgomery, Mitja I Kurki, Eija Hämäläinen, Hailiang Huang, Jie Huang,
+    Cynthia Sandor, Caleb Webber, Bertram Muller-Myhsok, Stefan Schreiber, Veikko
+    Salomaa, Elizabeth Loehrer, Hartmut Göbel, Alfons Macaya, Patricia Pozo-Rosich,
+    Thomas Hansen, Thomas Werge, Jaakko Kaprio, Andres Metspalu, Christian Kubisch,
+    Michel D Ferrari, Andrea C Belin, Arn MJM van den Maagdenberg, John-Anker Zwart,
+    Dorret Boomsma, N. Eriksson, Jes Olesen, Daniel I Chasman, Dale R Nyholt, Richard
+    Anney, Andreja Avbersek, Larry Baum
+  abstract: ''
+  citation: '<i>Science</i> 22 Jun 2018: Vol. 360, Issue 6395, eaap8757'
+  summary: Genetic sharing between 25 disorders of the brain
+  thumbnail: shared_brain.png
+  links:
+  - name: Science
+    url: https://science.sciencemag.org/content/360/6395/eaap8757
+2018.06.refractive:
+  category:
+  - genetics
+  title: Genome-wide association meta-analysis highlights light-induced signaling
+    as a driver for refractive error
+  authors: Milly S Tedja, Robert Wojciechowski, Pirro G Hysi, N. Eriksson, Nicholas
+    A Furlotte, Virginie JM Verhoeven, Adriana I Iglesias, Magda A Meester-Smoor,
+    Stuart W Tompson, Qiao Fan, Anthony P Khawaja, Ching-Yu Cheng, René Höhn, Kenji
+    Yamashiro, Adam Wenocur, Clare Grazal, Toomas Haller, Andres Metspalu, Juho Wedenoja,
+    Jost B Jonas, Ya Xing Wang, Jing Xie, Paul Mitchell, Paul J Foster, Barbara EK
+    Klein, Ronald Klein, Andrew D Paterson, S Mohsen Hosseini, Rupal L Shah, Cathy
+    Williams, Yik Ying Teo, Yih Chung Tham, Preeti Gupta, Wanting Zhao, Yuan Shi,
+    Woei-Yuh Saw, E-Shyong Tai, Xue Ling Sim, Jennifer E Huffman, Ozren Polašek, Caroline
+    Hayward, Goran Bencic, Igor Rudan, James F Wilson, Peter K Joshi, Akitaka Tsujikawa,
+    Fumihiko Matsuda, Kristina N Whisenhunt, Tanja Zeller, Peter J van der Spek, Roxanna
+    Haak, Hanne Meijers-Heijboer, Elisabeth M van Leeuwen, Sudha K Iyengar, Jonathan
+    H Lass, Albert Hofman, Fernando Rivadeneira, André G Uitterlinden, Johannes R
+    Vingerling, Terho Lehtimäki, Olli T Raitakari, Ginevra Biino, Maria Pina Concas,
+    Tae-Hwi Schwantes-An, Robert P Igo, Gabriel Cuellar-Partida, Nicholas G Martin,
+    Jamie E Craig, Puya Gharahkhani, Katie M Williams, Abhishek Nag, Jugnoo S Rahi,
+    Phillippa M Cumberland, Cécile Delcourt, Céline Bellenguez, Janina S Ried, Arthur
+    A Bergen, Thomas Meitinger, Christian Gieger, Tien Yin Wong, Alex W Hewitt, David
+    A Mackey, Claire L Simpson, Norbert Pfeiffer, Olavi Pärssinen, Paul N Baird, Veronique
+    Vitart, Najaf Amin, Cornelia M van Duijn, Joan E Bailey-Wilson, Terri L Young,
+    Seang-Mei Saw, Dwight Stambolian, Stuart MacGregor, Jeremy A Guggenheim, Joyce
+    Y Tung, Christopher J Hammond, Caroline CW Klaver
+  citation: <i>Nat Genet.</i> 2018; 50, 834-–848
+  summary: 161 loci for refractive error in a multi-ethnic cohort
+  thumbnail: light_pathways.png
+  links:
+  - name: PMC
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5980758/
+  - name: Nature Genetics
+    url: https://www.nature.com/articles/s41588-018-0127-7
+2018.05.mdd:
+  category:
+  - genetics
+  title: Genome-wide association analyses identify 44 risk variants and refine the
+    genetic architecture of major depression
+  authors: N.R. Wray, S. Ripke, M. Mattheisen, M. Trzaskowski, E.M. Byrne, A. Abdellaoui,
+    M.J. Adams, E. Agerbo, T.M. Air, T.MF Andlauer, S-A. Bacanu, M. Bækvad-Hansen,
+    A.FT Beekman, T.B. Bigdeli, E.B. Binder, D.RH Blackwood, J. Bryois, H.N Buttenschøn,
+    J. Bybjerg-Grauholm, N. Cai, E. Castelao, J.H. Christensen, T-K Clarke, J.IR Coleman,
+    L. Colodro-Conde, B. Couvy-Duchesne, N. Craddock, G.E. Crawford, C.A. Crowley,
+    H.S. Dashti, G. Davies, I.J. Deary, F. Degenhardt, E.M. Derks, N. Direk, C.V.
+    Dolan, E.C. Dunn, T.C. Eley, N. Eriksson, V. Escott-Price, F.H. Farhadi Kiadeh,
+    H.K. Finucane, A.J Forstner, J. Frank, H.A. Gaspar, M. Gill, P. Giusti-Rodríguez,
+    F.S. Goes, S.D. Gordon, J. Grove, L.S. Hall, E. Hannon, C.S. Hansen, T.F. Hansen,
+    S. Herms, I.B. Hickie, P. Hoffmann, G. Homuth, C. Horn, J-J Hottenga, D.M. Hougaard,
+    M. Hu, C.L. Hyde, M. Ising, R. Jansen, F. Jin, E. Jorgenson, J.A. Knowles, I.S.
+    Kohane, J. Kraft, W.W. Kretzschmar, J. Krogh, Z. Kutalik, J.M. Lane, Y. Li, Y.
+    Li, P.A. Lind, X. Liu, L. Lu, D.J. MacIntyre, D.F. MacKinnon, R.M. Maier, W. Maier,
+    J. Marchini, H. Mbarek, P. McGrath, P. McGuffin, S.E. Medland, D. Mehta, C.M.
+    Middeldorp, E. Mihailov, Y. Milaneschi, L. Milani, J. Mill, F.M. Mondimore, G.W.
+    Montgomery, S. Mostafavi, N. Mullins, M. Nauck, B. Ng, M.G. Nivard, D.R. Nyholt,
+    P.F. O’Reilly, H. Oskarsson, M.J. Owen, J.N. Painter, C.B. Pedersen, M.G. Pedersen,
+    R.E. Peterson, E. Pettersson, W.J. Peyrot, G. Pistis, D. Posthuma, S.M. Purcell,
+    J.A. Quiroz, P. Qvist, J.P. Rice, B.P. Riley, M. Rivera, S.S. Mirza, R. Saxena,
+    R. Schoevers, E.C. Schulte, L. Shen, J. Shi, S.I. Shyn, E. Sigurdsson, G.BC Sinnamon,
+    J.H. Smit, D.J. Smith, H. Stefansson, S. Steinberg, C.A. Stockmeier, F. Streit,
+    J. Strohmaier, K.E. Tansey, H. Teismann, A. Teumer, W. Thompson, P.A. Thomson,
+    T.E. Thorgeirsson, C. Tian, M. Traylor, J. Treutlein, V. Trubetskoy, A.G. Uitterlinden,
+    D. Umbricht, S. Van der Auwera, A.M. van Hemert, A. Viktorin
+  abstract: 'Major depressive disorder (MDD) is a notably complex illness with a lifetime
+    prevalence of 14%. 1 It is often chronic or recurrent and is thus accompanied
+    by considerable morbidity, excess mortality, substantial costs, and heightened
+    risk of suicide. 2-7 MDD is a major cause of disability worldwide. 8 We conducted
+    a genome-wide association (GWA) meta-analysis in 130,664 MDD cases and 330,470
+    controls, and identified 44 independent loci that met criteria for statistical
+    significance. We present extensive analyses of these results which provide new
+    insights into the nature of MDD. The genetic findings were associated with clinical
+    features of MDD, and implicated prefrontal and anterior cingulate cortex in the
+    pathophysiology of MDD (regions exhibiting anatomical differences between MDD
+    cases and controls). Genes that are targets of antidepressant medications were
+    strongly enriched for MDD association signals (P=8.5x10-10), suggesting the relevance
+    of these findings for improved pharmacotherapy of MDD. Sets of genes involved
+    in gene splicing and in creating isoforms were also enriched for smaller MDD GWA
+    P-values, and these gene sets have also been implicated in schizophrenia and autism.
+    Genetic risk for MDD was correlated with that for many adult and childhood onset
+    psychiatric disorders. Our analyses suggested important relations of genetic risk
+    for MDD with educational attainment, body mass, and schizophrenia: the genetic
+    basis of lower educational attainment and higher body mass were putatively causal
+    for MDD whereas MDD and schizophrenia reflected a partly shared biological etiology.
+    All humans carry lesser or greater numbers of genetic risk factors for MDD, and
+    a continuous measure of risk underlies the observed clinical phenotype. MDD is
+    not a distinct entity that neatly demarcates normalcy from pathology but rather
+    a useful clinical construct associated with a range of adverse outcomes and the
+    end result of a complex process of intertwined genetic and environmental effects.
+    These findings help refine and define the fundamental basis of MDD.'
+  citation: <i>Nat Genet.</i> 2018; 50, 668--681
+  summary: 44 loci for major depression
+  thumbnail: mdd.png
+  links:
+  - name: Nature Genetics
+    url: http://dx.doi.org/10.1038/s41588-018-0090-3
+  - name: bioRxiv
+    url: https://www.biorxiv.org/content/early/2017/07/24/167577
+2017.09.infectious:
+  category:
+  - genetics
+  title: Genome-wide association and HLA region fine-mapping studies identify susceptibility
+    loci for multiple common infections
+  authors: C. Tian, B.S. Hromatka, A.K. Kiefer, N. Eriksson, S. Noble, J.Y. Tung,
+    D.A. Hinds
+  abstract: We performed 23 genome-wide association studies for common infections
+    and infection-associated procedures, including chickenpox, shingles, cold sores,
+    mononucleosis, mumps, hepatitis B, plantar warts, positive tuberculosis test results,
+    strep throat, scarlet fever, pneumonia, bacterial meningitis, yeast infections,
+    urinary tract infections, tonsillectomy, childhood ear infections, myringotomy,
+    measles, hepatitis A, rheumatic fever, common colds, rubella and chronic sinus
+    infection, in over 200,000 individuals of European ancestry. For many infections,
+    we detect genome-wide significant (P&lt;5x10 -8 ) associations in genes with key
+    roles in acquired and innate immunity and in regulation of embryonic development.
+    Eleven missense mutations were identified including two (FUT2 and TBX1) that were
+    implicated in multiple infections. We applied fine-mapping analysis to dissect
+    associations in the human leukocyte antigen region, which suggested important
+    roles of specific amino acid polymorphisms in the antigen-binding clefts. Our
+    findings provide an important step toward dissecting the host genetic architecture
+    of response to common infections.
+  citation: <i>Nat Commun.</i> 2017; 8; 599
+  summary: Many links between the HLA and infectious disease
+  thumbnail: hla_infectious.png
+  links:
+  - name: Nature Communications
+    url: http://dx.doi.org/10.1038/s41467-017-00257-5
+  - name: bioRxiv
+    url: http://www.biorxiv.org/content/early/2016/09/09/073056
+2017.06.adhd_sex:
+  category:
+  - genetics
+  title: A genetic investigation of sex bias in the prevalence of attention deficit
+    hyperactivity disorder
+  authors: 'J. Martin, R.K. Walters, D. Demontis, M. Mattheisen, S.H. Lee, E. Robinson,
+    I. Brikell, L. Ghirardi, H. Larsson, P. Lichtenstein, N. Eriksson, 23andMe Research
+    Team, Psychiatric Genomics Consortium: ADHD Subgroup, iPSYCH-Broad ADHD Workgroup,
+    T. Werge, P.B. Mortensen, M.G. Pedersen, O. Mors, M. Nordentoft, D.M. Hougaard,
+    J. Bybjerg-Grauholm, N. Wray, B. Franke, S.V. Faraone, M.C. O''Donovan, A. Thapar,
+    A.D. Børglum, B.M. Neale'
+  abstract: 'Attention-deficit/hyperactivity disorder (ADHD) shows substantial heritability
+    and is 2-7 times more common in males than females. We examined two putative genetic
+    mechanisms underlying this sex bias: sex-specific heterogeneity and higher burden
+    of risk in female cases. We analyzed genome-wide common variants from the Psychiatric
+    Genomics Consortium and iPSYCH Project (20,183 cases, 35,191 controls) and Swedish
+    population-registry data (N=77,905 cases, N=1,874,637 population controls). We
+    find strong genetic correlation for ADHD across sex and no mean difference in
+    polygenic burden across sex. In contrast, siblings of female probands are at an
+    increased risk of ADHD, compared to siblings of male probands. The results also
+    suggest that females with ADHD are at especially high risk of comorbid developmental
+    conditions. Overall, this study supports a greater familial burden of risk in
+    females with ADHD and some clinical and etiological heterogeneity. However, autosomal
+    common variants largely do not explain the sex bias in ADHD prevalence.'
+  citation: <i>bioRxiv</i> (2017)
+  summary: Similar polygenic ADHD burden across sex.
+  thumbnail: adhd_sex.png
+  links:
+  - name: bioRxiv
+    url: http://www.biorxiv.org/content/early/2017/06/23/154088
+2017.06.adhd:
+  category:
+  - genetics
+  title: Discovery Of The First Genome-Wide Significant Risk Loci For ADHD
+  authors: D. Demontis, R.K. Walters, J. Martin, M. Mattheisen, T.D. Als, E. Agerbo,
+    R. Belliveau, J. Bybjerg-Grauholm, M. Bækved-Hansen, F. Cerrato, K. Chambert,
+    C. Churchhouse, A. Dumont, N. Eriksson, M. Gandal, J. Goldstein, J. Grove, C.S.
+    Hansen, M. Hauberg, M. Hollegaard, D.P. Howrigan, H. Huang, J. Maller, A.R. Martin,
+    J. Moran, J. Pallesen, D.S. Palmer, C.B. Pedersen, M.G. Pedersen, T. Poterba,
+    J.B. Poulsen, S. Ripke, E.B. Robinson, F.K. Satterstrom, C. Stevens, P. Turley,
+    H. Won, ADHD Working Group of the Psychiatric Genomics Con, Early Lifecourse and
+    Genetic Epidemiology (EAGLE), 23andMe Research Team, O.A. Andreassen, C. Burton,
+    D. Boomsma, B. Cormand, S. Dalsgaard, B. Franke, J. Gelernter, D. Geschwind, H.
+    Hakonarson, J. Haavik, H. Kranzler, J. Kuntsi, K. Langley, K-P. Lesch, C. Middeldorp,
+    A. Reif, L.A. Rohde, P. Roussos, R. Schachar, P. Sklar, E. Sonuga-Barke, P.F.
+    Sullivan, A. Thapar, J.Y. Tung, I. Waldman, M. Nordentoft, D.M. Hougaard, T. Werge,
+    O. Mors, P.B. Mortensen, M.J. Daly, S.V. Faraone, A.D. Børglum, B.M. Neale
+  abstract: Attention-Deficit/Hyperactivity Disorder (ADHD) is a highly heritable
+    childhood behavioral disorder affecting 5% of school-age children and 2.5% of
+    adults. Common genetic variants contribute substantially to ADHD susceptibility,
+    but no individual variants have been robustly associated with ADHD. We report
+    a genome-wide association meta-analysis of 20,183 ADHD cases and 35,191 controls
+    that identifies variants surpassing genome-wide significance in 12 independent
+    loci, revealing new and important information on the underlying biology of ADHD.
+    Associations are enriched in evolutionarily constrained genomic regions and loss-of-function
+    intolerant genes, as well as around brain-expressed regulatory marks. These findings,
+    based on clinical interviews and/or medical records are supported by additional
+    analyses of a self-reported ADHD sample and a study of quantitative measures of
+    ADHD symptoms in the population. Meta-analyzing these data with our primary scan
+    yielded a total of 16 genome-wide significant loci. The results support the hypothesis
+    that clinical diagnosis of ADHD is an extreme expression of one or more continuous
+    heritable traits.
+  citation: <i>bioRxiv</i> (2017)
+  summary: 12 loci for ADHD.
+  thumbnail: adhd.png
+  links:
+  - name: bioRxiv
+    url: http://www.biorxiv.org/content/early/2017/06/03/145581
+2017.05.psoriasis:
+  category:
+  - genetics
+  title: Large scale meta-analysis characterizes genetic architecture for common psoriasis
+    associated variants
+  authors: L.C. Tsoi, P.E. Stuart, C. Tian, J.E. Gudjonsson, S. Das, M. Zawistowski,
+    E. Ellinghaus, J.N. Barker, V. Chandran, N. Dand, K.C. Duffin, C. Enerbäck, T.
+    Esko, A. Franke, D.D. Gladman, P. Hoffmann, K. Kingo, S. Kõks, G. G. Krueger,
+    H.W. Lim, A. Metspalu, U. Mrowietz, S. Mucha, P. Rahman, A. Reis, T. Tejasvi,
+    R. Trembath, J.J. Voorhees, S. Weidinger, M. Weichenthal, X. Wen, N. Eriksson,
+    H.M. Kang, D.A. Hinds, R.P. Nair, G.R. Abecasis, J.T. Eldera
+  abstract: Psoriasis is a complex disease of skin with a prevalence of about 2%.
+    We conducted the largest meta-analysis of genome-wide association studies (GWAS)
+    for psoriasis to date, including data from eight different Caucasian cohorts,
+    with a combined effective sample size >39,000 individuals. We identified 16 additional
+    psoriasis susceptibility loci achieving genome-wide significance, increasing the
+    number of identified loci to 63 for European-origin individuals. Functional analysis
+    highlighted the roles of interferon signalling and the NF-kB cascade, and we showed
+    that the psoriasis signals are enriched in regulatory elements from different
+    T cells (CD8+ T-cells and CD4+ T-cells including TH0, TH1 and TH17). The identified
+    loci explain ~28% of the genetic heritability and generate a discriminatory genetic
+    risk score (AUC=0.76 in our sample) that is significantly correlated with age
+    at onset (p=2e−89). This study provides a comprehensive layout for the genetic
+    architecture of common variants for psoriasis.
+  citation: '<i>Nat Commun.</i> 2017; 8: 15382'
+  summary: 16 new associations with psoriasis
+  thumbnail: psoriasis2.png
+  links:
+  - name: PMC
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5458077/
+2016.10.afb:
+  category:
+  - genetics
+  title: Genome-wide analysis identifies 12 loci influencing human reproductive behavior
+  authors: N. Barban, R. Jansen, R. de Vlaming, A. Vaez, J.J. Mandemakers, F.C. Tropf,
+    X. Shen, J.F. Wilson, D.I. Chasman, I.M. Nolte, V. Tragante, S.W. van der Laan,
+    JRB Perry, A. Kong, T. S Ahluwalia, E. Albrecht, L. Yerges-Armstrong, G. Atzmon,
+    K. Auro, K. Ayers, A. Bakshi, D. Ben-Avraham, K. Berger, A. Bergman, L. Bertram,
+    L.F. Bielak, G. Bjornsdottir, M. Jan Bonder, L. Broer, M. Bui, C. Barbieri, A.
+    Cavadino, J.E. Chavarro, C. Turman, M. Pina Concas, H.J. Cordell, G. Davies, P.
+    Eibich, N. Eriksson, T. Esko, J. Eriksson, F. Falahi, J.F. Felix, M.A. Fontana,
+    L. Franke, I. Gandin, A.J. Gaskins, C. Gieger, E. P Gunderson, X. Guo, C. Hayward,
+    C. He, E. Hofer, H. Huang, P.K. Joshi, S. Kanoni, R. Karlsson, S. Kiechl, A. Kifley,
+    A. Kluttig, P. Kraft, V. Lagou, C. Lecoeur, J. Lahti, R. Li-Gao, P. A Lind, T.
+    Liu, E. Makalic, C. Mamasoula, L. Matteson, H. Mbarek, P.F. McArdle, G. McMahon,
+    SFW Meddens, E. Mihailov, M. Miller, S.A. Missmer, C. Monnereau, P.J. van der
+    Most, R. Myhre, M.A Nalls, T. Nutile, I. Panagiota Kalafati, E. Porcu, I. Prokopenko,
+    K.B. Rajan, J. Rich-Edwards, C.A. Rietveld, A. Robino, L.M. Rose, R. Rueedi, K.A.
+    Ryan, Y. Saba, D. Schmidt, J.A. Smith, L. Stolk, E. Streeten, A. Tönjes, G. Thorleifsson,
+    S. Ulivi, J. Wedenoja, J. Wellmann, P. Willeit, J. Yao, L. Yengo, J. Hua Zhao,
+    W. Zhao, D.V. Zhernakova, N. Amin, H. Andrews, B. Balkau, N. Barzilai, S. Bergmann,
+    G. Biino, H. Bisgaard, K. Bønnelykke, D. I Boomsma, J.E. Buring, H. Campbell,
+    S. Cappellani, M. Ciullo, S.R. Cox, F. Cucca, D. Toniolo, G. Davey-Smith, I.J.
+    Deary, G. Dedoussis, P. Deloukas, C.M. van Duijn, EJC de Geus, J.G. Eriksson,
+    D.A. Evans, J.D. Faul, C. Felicita Sala, P. Froguel, P. Gasparini, G. Girotto,
+    H-J Grabe, K. Halina Greiser, PJF Groenen, H.G. de Haan, J. Haerting, T.B. Harris,
+    A.C. Heath, K. Heikkilä, A. Hofman, G. Homuth, E.G. Holliday, J. Hopper, E. Hyppönen
+  abstract: The genetic architecture of human reproductive behavior—age at first birth
+    (AFB) and number of children ever born (NEB)—has a strong relationship with fitness,
+    human development, infertility and risk of neuropsychiatric disorders. However,
+    very few genetic loci have been identified, and the underlying mechanisms of AFB
+    and NEB are poorly understood. We report a large genome-wide association study
+    of both sexes including 251,151 individuals for AFB and 343,072 individuals for
+    NEB. We identified 12 independent loci that are significantly associated with
+    AFB and/or NEB in a SNP-based genome-wide association study and 4 additional loci
+    associated in a gene-based effort. These loci harbor genes that are likely to
+    have a role, either directly or by affecting non-local gene expression, in human
+    reproduction and infertility, thereby increasing understanding of these complex
+    traits.
+  citation: <i>Nature Genetics</i> 48, 1462–1472 (2016)
+  summary: GWAS of age at first birth / number of children.
+  thumbnail: afb.png
+  links:
+  - name: Nature Genetics
+    url: http://www.nature.com/ng/journal/v48/n12/full/ng.3698.html
+2016.06.jak2:
+  category:
+  - genetics
+  title: Germline variants predispose to both JAK2 V617F clonal hematopoiesis and
+    myeloproliferative neoplasms
+  authors: D.A. Hinds, K.E. Barnholt, R.A. Mesa, A.K. Kiefer, C.B. Do, N. Eriksson,
+    J.L. Mountain, U. Francke, J.Y. Tung, H.M. Nguyen, H. Zhang, L. Gojenola, J.L.
+    Zehnder, J. Gotlib
+  abstract: 'We conducted a genome-wide association study to identify novel predisposition
+    alleles associated with Philadelphia chromosome-negative myeloproliferative neoplasms
+    (MPNs) as well as JAK2 V617F clonal hematopoiesis in the general population. We
+    recruited a web-based cohort of 726 individuals with polycythemia vera, essential
+    thrombocythemia, and myelofibrosis and 252,637 population controls unselected
+    for hematologic phenotypes. Using a SNP array platform with custom probes for
+    the JAK2 V617F mutation (V617F), we identified 497 individuals (0.2%) among the
+    population controls who were V617F carriers. We performed a combined GWAS of the
+    MPN cases plus V617F carriers in the control population (n=1223) versus the remaining
+    controls who were non-carriers for V617F (n=252,140). For these MPN cases plus
+    V617F carriers, we replicated the germline JAK2 46/1 haplotype (rs59384377: odds
+    ratio (OR)=2.4, P=6.6e−89), previously associated with V617F-positive MPN. We
+    also identified genome-wide significant associations in the TERT gene (rs7705526:
+    OR=1.8, P=1.1e−32), in SH2B3 (rs7310615: OR=1.4, P=3.1e−14), and upstream of TET2
+    (rs1548483: OR=2.0, P=2.0e−9). These associations were confirmed in a separate
+    replication cohort of 446 V617F carriers versus 169,021 non-carriers. In a joint
+    analysis of the combined GWAS and replication results, we identified additional
+    genome-wide significant predisposition alleles associated with CHEK2, ATM, PINT,
+    and GFI1B. All SNP odds ratios were similar for MPN patients and for controls
+    who were V617F carriers. These data indicate that the same germline variants not
+    only endow individuals with a predisposition to MPN, but also to JAK2 V617F clonal
+    hematopoiesis, a more common phenomenon that may foreshadow the development of
+    an overt neoplasm.'
+  citation: <i>Blood</i> (2016) doi:10.1182/blood-2015-06-652941
+  summary: Germline variants predisposing to myeloproliferative neoplasms and to JAK2
+    V617F clonal hematopoiesis.
+  thumbnail: jak2.png
+  links:
+  - name: Blood
+    url: http://www.bloodjournal.org/content/early/2016/06/30/blood-2015-06-652941
+2016.05.migraines:
+  category:
+  - genetics
+  title: Meta-analysis of 375,000 individuals identifies 38 susceptibility loci for
+    migraine
+  authors: P. Gormley, V. Anttila, B.S. Winsvold, P. Palta, T. Esko, T.H. Pers, K-H.
+    Farh, E. Cuenca-Leon, M. Muona, N.A. Furlotte, T. Kurth, A. Ingason, G. McMahon,
+    L. Ligthart, G.M. Terwindt, M. Kallela, T.M. Freilinger, C. Ran, S.G. Gordon,
+    A.H. Stam, S. Steinberg, G. Borck, M. Koiranen, L. Quaye, H.H.H. Adams, T. Lehtimäki,
+    A-P. Sarin, J. Wedenoja, D.A. Hinds, J.E. Buring, M. Schürks, P.M. Ridker, M.G.
+    Hrafnsdottir, H. Stefansson, S.M. Ring, J-J. Hottenga, B.W.J.H. Penninx, M. Färkkilä,
+    V. Artto, M. Kaunisto, S. Vepsäläinen, R. Malik, A.C. Heath, P.A.F. Madden, N.G.
+    Martin, G.W. Montgomery, M.I. Kurki, M. Kals, R. Mägi, K. Pärn, E. Hämäläinen,
+    H. Huang, A.E. Byrnes, L. Franke, J. Huang, E. Stergiakouli, P.H. Lee, C. Sandor,
+    C. Webber, Z. Cader, B. Muller-Myhsok, S. Schreiber, T. Meitinger, J.G. Eriksson,
+    V. Salomaa, K. Heikkilä, E. Loehrer, A.G. Uitterlinden, A. Hofman, C.M. van Duijn,
+    L. Cherkas, L.M. Pedersen, A. Stubhaug, C.S. Nielsen, M. Männikkö, E. Mihailov,
+    L. Milani, H. Göbel, A-L. Esserlind, A.F. Christensen, T.F. Hansen, T. Werge,
+    V. Anttila, V. Artto, A.C. Belin, D.I. Boomsma, S. Børte, L. Cherkas, A.F. Christensen,
+    B. Cormand, E. Cuenca-Leon, G.D. Smith, M. Dichgans, C. van Duijn, E. Eising,
+    T. Esko, A-L. Esserlind, M. Ferrari, R.R Frants, T. M Freilinger, L. Griffiths,
+    E. Hamalainen, T.F. Hansen, M. Hiekkala, M.A. Ikram, A. Ingason, M-R. Järvelin,
+    R. Kajanne, M. Kallela, J. Kaprio, M. Kaunisto, C. Kubisch, M. Kurki, T. Kurth,
+    L. Launer, T. Lehtimaki, D. Lessel, L. Ligthart, N. Litterman, A.M.J.M.van den
+    Maagdenberg, A. Macaya, R. Malik, M. Mangino, G. McMahon, B. Muller-Myhsok, C.
+    Northover, J. Olesen, L.M. Pedersen, N. Pedersen, D. Posthuma, P. Pozo-Rosich,
+    A. Pressman, L. Quaye, O. Raitakari, M. Schürks, C. Sintas, H. Stefansson, S.
+    Steinberg, D. Strachan, G.M. Terwindt, M. Vila-Pueyo, M. Wessman, B.S. Winsvold,
+    W. Wrenthal, H. Zhao, J-A. Zwart, J. Kaprio, A.J. Aromaa, O. Raitakari, M.A. Ikram,
+    T. Spector, M-R. Järvelin, A. Metspalu, C. Kubisch, D.P. Strachan, M.D. Ferrari,
+    A.C. Belin, M. Dichgans, M. Wessman, A.M.J.M. van den Maagdenberg, J-A. Zwart,
+    D.I. Boomsma, G.D. Smith, K. Stefansson, N. Eriksson, M.J. Daly, B.M. Neale, J.
+    Olesen, D.I. Chasman, D.R. Nyholt, A. Palotie
+  abstract: Migraine is a debilitating neurological disorder affecting around one
+    in seven people worldwide, but its molecular mechanisms remain poorly understood.
+    There is some debate about whether migraine is a disease of vascular dysfunction
+    or a result of neuronal dysfunction with secondary vascular changes. Genome-wide
+    association (GWA) studies have thus far identified 13 independent loci associated
+    with migraine. To identify new susceptibility loci, we carried out a genetic study
+    of migraine on 59,674 affected subjects and 316,078 controls from 22 GWA studies.
+    We identified 44 independent single-nucleotide polymorphisms (SNPs) significantly
+    associated with migraine risk (P < 5 x 10−8) that mapped to 38 distinct genomic
+    loci, including 28 loci not previously reported and a locus that to our knowledge
+    is the first to be identified on chromosome X. In subsequent computational analyses,
+    the identified loci showed enrichment for genes expressed in vascular and smooth
+    muscle tissues, consistent with a predominant theory of migraine that highlights
+    vascular etiologies.
+  citation: <i>Nature Genetics</i> (2016) doi:10.1038/ng.3598
+  summary: A huge GWAS of migraines.
+  thumbnail: migraine.png
+  links:
+  - name: Nature Genetics
+    url: http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3598.html
+2016.02.morning:
+  category:
+  - genetics
+  title: GWAS of 89,283 individuals identifies genetic variants associated with self-reporting
+    of being a morning person
+  authors: Y. Hu, A. Shmygelska, D. Tran, N. Eriksson, J.Y. Tung, D.A. Hinds
+  abstract: Circadian rhythms are a nearly universal feature of living organisms and
+    affect almost every biological process. Our innate preference for mornings or
+    evenings is determined by the phase of our circadian rhythms. We conduct a genome-wide
+    association analysis of self-reported morningness, followed by analyses of biological
+    pathways and related phenotypes. We identify 15 significantly associated loci,
+    including seven near established circadian genes (rs12736689 near RGS16, P=7.0
+    x 10−18; rs9479402 near VIP, P=3.9 x 10−11; rs55694368 near PER2, P=2.6 x 10−9;
+    rs35833281 near HCRTR2, P=3.7 x 10−9; rs11545787 near RASD1, P=1.4 x 10−8; rs11121022
+    near PER3, P=2.0 x 10−8; rs9565309 near FBXL3, P=3.5 x 10−8. Circadian and phototransduction
+    pathways are enriched in our results. Morningness is associated with insomnia
+    and other sleep phenotypes; and is associated with body mass index and depression
+    but we did not find evidence for a causal relationship in our Mendelian randomization
+    analysis. Our findings reinforce current understanding of circadian biology and
+    will guide future studies.
+  citation: '<i>Nature Communications</i> 7, Article number: 10448, Feb 2016.'
+  summary: On the genetics of circadian rhythms
+  thumbnail: morning.png
+  links:
+  - name: Nature Communications
+    url: http://nature.com/articles/doi:10.1038/ncomms10448
+  press:
+  - name: The Verge
+    url: http://www.theverge.com/2016/2/2/10893994/23andme-morning-person-dna-genes
+2015.09.moocs:
+  category:
+  - education
+  - book
+  title: Who's Benefiting from MOOCs, and Why
+  authors: C. Zhenghao, B. Alcorn, G. Christensen, N. Eriksson, D. Koller, E.J. Emanuel
+  abstract: ''
+  citation: <i>Harvard Business Review</i>, September 22, 2015.
+  summary: Among learners who complete courses, MOOCs do have a real impact.
+  thumbnail: mooc.png
+  links:
+  - name: Harvard Business Review
+    url: https://hbr.org/2015/09/whos-benefiting-from-moocs-and-why
+  press:
+  - name: Financial Times
+    url: http://www.ft.com/cms/s/2/fe42ba48-5d31-11e5-9846-de406ccb37f2.html#axzz3mTzTuer2
+  - name: USA Today
+    url: http://www.usatoday.com/story/tech/2015/09/22/coursera-survey-finds-its-courses-boon-emerging-economy-workers/72563786/
+  - name: Inc.
+    url: http://www.inc.com/graham-winfrey/how-online-courses-can-help-entrepreneurs-close-the-skills-gap.html
+  - name: Chronicle of Higher Education
+    url: http://chronicle.com/blogs/wiredcampus/what-the-results-of-a-survey-of-coursera-students-mean-for-online-learning/57401
+2015.06.virtualPD:
+  category:
+  - genetics
+  title: Virtual research visits and direct-to-consumer genetic testing in Parkinson’s
+    disease
+  authors: E.R. Dorsey, K.C. Darwin, S. Mohammed, S. Donohue, A. Tethal, M.A. Achey,
+    S. Ward, E. Caughey, E.D. Conley, N. Eriksson, B. Ravina
+  abstract: ''
+  citation: <i>Digital Health</i>, Jun 2015.
+  summary: In depth, virtual visits of Parkinson's disease patients.
+  thumbnail: virtual_pd.png
+  links:
+  - name: Digital Health
+    url: http://dhj.sagepub.com/content/1/2055207615592998
+2015.03.rosacea:
+  category:
+  - genetics
+  title: Assessment of the Genetic Basis of Rosacea by Genome-Wide Association Study
+  authors: A. L. S. Chang, I. Raber, J. Xu, R. Li, R. Spitale, J. Chen, A. K. Kiefer,
+    C. Tian, N. Eriksson, D. A. Hinds, J. Y. Tung
+  abstract: 'Rosacea is a common, chronic skin disease that is currently incurable.
+    Although environmental factors influence rosacea, the genetic basis of rosacea
+    is not established. In this genome-wide association study, a discovery group of
+    22,952 individuals (2,618 rosacea cases and 20,334 controls) was analyzed, leading
+    to identification of two significant single-nucleotide polymorphisms (SNPs) associated
+    with rosacea, one of which replicated in a new group of 29,481 individuals (3,205
+    rosacea cases and 26,262 controls). The confirmed SNP, rs763035 (P=8e−11 discovery
+    group; P=0.00031 replication group), is intergenic between HLA-DRA and BTNL2.
+    Exploratory immunohistochemical analysis of HLA-DRA and BTNL2 expression in papulopustular
+    rosacea lesions from six individuals, including one with the rs763035 variant,
+    revealed staining in the perifollicular inflammatory infiltrate of rosacea for
+    both proteins. In addition, three HLA alleles, all MHC class II proteins, were
+    significantly associated with rosacea in the discovery group and confirmed in
+    the replication group: HLA-DRB1*03:01 (P=1e−8 discovery group; P=4.4e−6 replication
+    group), HLA-DQB1*02:01 (P=1.3e−8 discovery group; P=7.2e−6 replication group),
+    and HLA-DQA1*05:01 (P=1.4e−8 discovery group; P=7.6e−6 replication group). Collectively,
+    the gene variants identified in this study support the concept of a genetic component
+    for rosacea, and provide candidate targets for future studies to better understand
+    and treat rosacea.'
+  citation: <i>Journal of Investigative Dermatology</i>, March 2015.
+  summary: HLA associations with rosacea
+  thumbnail: rosacea.png
+  links:
+  - name: JID
+    url: http://www.nature.com/jid/journal/vaop/ncurrent/full/jid201553a.html
+2015.02.crossover:
+  category:
+  - genetics
+  title: Escape from crossover interference increases with maternal age
+  authors: C. L. Campbell, N. A. Furlotte, N. Eriksson, D. A. Hinds, A. Auton
+  abstract: Recombination plays a fundamental role in meiosis, ensuring the proper
+    segregation of chromosomes and contributing to genetic diversity by generating
+    novel combinations of alleles. Using data derived from direct-to-consumer genetic
+    testing, we investigated patterns of recombination in over 4,200 families. Our
+    analysis revealed a number of sex differences in the distribution of recombination.
+    We find the fraction of male events occurring within hotspots to be 4.6% higher
+    than for females. We confirm that the recombination rate increases with maternal
+    age, while hotspot usage decreases, with no such effects observed in males. Finally,
+    we show that the placement of female recombination events becomes increasingly
+    deregulated with maternal age, with an increasing fraction of events appearing
+    to escape crossover interference.
+  citation: <i>Nature Communications</i>, 6, Feb 2015.
+  summary: Analysis of recombination rate and hotspot usage with respect to age.
+  thumbnail: crossover.png
+  links:
+  - name: Nature Communications
+    url: http://www.nature.com/ncomms/2015/150219/ncomms7260/full/ncomms7260.html
+  - name: arxiv
+    url: http://arxiv.org/abs/1408.5517
+2015.02.motionsick:
+  category:
+  - genetics
+  - flc
+  title: Genetic variants associated with motion sickness point to roles for inner
+    ear development, neurological processes, and glucose homeostasis
+  authors: B. S. Hromatka, J. Y. Tung, A. K. Kiefer, C. B. Do, D. A. Hinds, N. Eriksson
+  abstract: Roughly one in three individuals is highly susceptible to motion sickness
+    and yet the underlying causes of this condition are not well understood. Despite
+    high heritability, no associated genetic factors have been discovered to date.
+    Here, we conducted the first genome-wide association study on motion sickness
+    in 80,494 individuals from the 23andMe database who were surveyed about car sickness.
+    Thirty-five single-nucleotide polymorphisms (SNPs) were associated with motion
+    sickness at a genome-wide-significant level (p< 5e-8). Many of these SNPs are
+    near genes involved in balance, and eye, ear, and cranial development (e.g., PVRL3,
+    TSHZ1, MUTED, HOXB3, HOXD3). Other SNPs may affect motion sickness through nearby
+    genes with roles in the nervous system, glucose homeostasis, or hypoxia. We show
+    that several of these SNPs display sex-specific effects, with as much as three
+    times stronger effects in women. We searched for comorbid phenotypes with motion
+    sickness, confirming associations with known comorbidities including migraines,
+    postoperative nausea and vomiting (PONV), vertigo, and morning sickness, and observing
+    new associations with altitude sickness and many gastrointestinal conditions.
+    We also show that two of these related phenotypes (PONV and migraines) share underlying
+    genetic factors with motion sickness. These results point to the importance of
+    the nervous system in motion sickness and suggest a role for glucose levels in
+    motion-induced nausea and vomiting, a finding that may provide insight into other
+    nausea-related phenotypes such as PONV. They also highlight personal characteristics
+    (e.g., being a poor sleeper) that correlate with motion sickness, findings that
+    could help identify risk factors or treatments.
+  citation: <i>Human Molecular Genetics</i>, 2015.
+  summary: The first 35 variants associated with motion sickness.
+  thumbnail: motionsick.png
+  links:
+  - name: HMG
+    url: http://hmg.oxfordjournals.org/content/early/2015/02/17/hmg.ddv028.full
+  - name: biorxiv
+    url: http://biorxiv.org/content/early/2014/02/04/002386
+  - name: Vox
+    url: http://www.vox.com/2015/8/9/9121583/motion-sickness-carsick
+2014.11.robust:
+  category:
+  - genetics
+  title: Replicability and Robustness of Genome-Wide-Association Studies for Behavioral
+    Traits
+  authors: C. A. Rietveld, D. Conley, N. Eriksson, T. Esko, S. E. Medland, A. A. E.
+    Vinkhuyzen, J. Yang, J. D. Boardman, C. F. Chabris, C. T. Dawes, B. W. Domingue,
+    D. A. Hinds, M. Johannesson, A. K. Kiefer, D. Laibson, P. K. E. Magnusson, J.
+    L. Mountain, S. Oskarsson, O. Rostapshova, A. Teumer, J. Y. Tung, P. M. Visscher,
+    D. J. Benjamin, D. Cesarini, P. D. Koellinger
+  abstract: A recent genome-wide-association study of educational attainment identified
+    three single-nucleotide polymorphisms (SNPs) whose associations, despite their
+    small effect sizes (each R^2 = 0.02%), reached genome-wide significance (p < 5
+    x 10−8) in a large discovery sample and were replicated in an independent sample
+    (p < .05). The study also reported associations between educational attainment
+    and indices of SNPs called 'polygenic scores.' In three studies, we evaluated
+    the robustness of these findings. Study 1 showed that the associations with all
+    three SNPs were replicated in another large (N = 34,428) independent sample. We
+    also found that the scores remained predictive (R^2 = 2%) in regressions with
+    stringent controls for stratification (Study 2) and in new within-family analyses
+    (Study 3). Our results show that large and therefore well-powered genome-wide-association
+    studies can identify replicable genetic associations with behavioral traits. The
+    small effect sizes of individual SNPs are likely to be a major contributing factor
+    explaining the striking contrast between our results and the disappointing replication
+    record of most candidate-gene studies.
+  citation: <i>Psychological Science,</i> Nov 2014, vol. 25, no. 11, 1975-1986.
+  summary: Replication of educational attainment associations
+  thumbnail: educational.png
+  links:
+  - name: Psych Sci
+    url: http://pss.sagepub.com/content/25/11/1975.short
+2014.08.neurox:
+  category:
+  - genetics
+  title: NeuroX, a Fast and Efficient Genotyping Platform for Investigation of Neurodegenerative
+    Diseases
+  authors: M. A. Nalls, J. Bras, D. G. Hernandez, M. F. Keller, E. Majounie, A. E.
+    Renton, M. Saad, I. Jansen, R. Guerreiro, S. Lubbe, V. Plagnol, J. R. Gibbs, C.
+    Schulte, N. Pankratz, M. Sutherland, L. Bertram, C. M. Lill, A. L. DeStefano,
+    T. Faroud, N. Eriksson, J. Y. Tung, C. Edsall, N. Nichols, J. Brooks, S. Arepalli,
+    H. Pliner, C. Letson, P. Heutink, M. Martinez, T. Gasser, B. J. Traynor, N. Wood,
+    J. Hardy, A. B. Singleton
+  abstract: Our objective was to design a genotyping platform that would allow rapid
+    genetic characterization of samples in the context of genetic mutations and risk
+    factors associated with common neurodegenerative diseases. The platform needed
+    to be relatively affordable, rapid to deploy, and use a common and accessible
+    technology. Central to this project, we wanted to make the content of the platform
+    open to any investigator without restriction. In designing this array we prioritized
+    a number of types of genetic variability for inclusion, such as known risk alleles,
+    disease-causing mutations, putative risk alleles, and other functionally important
+    variants. The array was primarily designed to allow rapid screening of samples
+    for disease-causing mutations and large population studies of risk factors. Notably,
+    an explicit aim was to make this array widely available to facilitate data sharing
+    across and within diseases. The resulting array, NeuroX, is a remarkably cost
+    and time effective solution for high-quality genotyping. NeuroX comprises a backbone
+    of standard Illumina exome content of approximately 240,000 variants, and over
+    24,000 custom content variants focusing on neurologic diseases. Data are generated
+    at approximately $50–$60 per sample using a 12-sample format chip and regular
+    Infinium infrastructure; thus, genotyping is rapid and accessible to many investigators.
+    Here, we describe the design of NeuroX, discuss the utility of NeuroX in the analyses
+    of rare and common risk variants, and present quality control metrics and a brief
+    primer for the analysis of NeuroX derived data.
+  citation: <i>Neurobiology of Aging,</i> 4 Aug 2014.
+  summary: A cheap genotyping chip for neurodegenerative disease research.
+  thumbnail: neuroX.png
+  links:
+  - name: DOI
+    url: http://dx.doi.org/10.1016/j.neurobiolaging.2014.07.028
+2014.07.PD:
+  category:
+  - genetics
+  title: Large-scale meta-analysis of genome-wide association data identifies six
+    new risk loci for Parkinson's disease
+  authors: 'M. A. Nalls,   N. Pankratz,    C. M. Lill,   C. B. Do,    D. G. Hernandez,   M.
+    Saad,   A. L. DeStefano,  E. Kara,   J. Bras,  M. Sharma,    C. Schulte,    M.
+    F. Keller,   S. Arepalli,   C. Letson, C. Edsall,  H. Stefansson,  X. Liu, H.
+    Pliner,  J. H. Lee,   R. Cheng, International Parkinson''s Disease Genomics Consortium
+    (IPDGC),  Parkinson''s Study Group (PSG) Parkinson''s Research: The Organized
+    GENetics Initiative (PROGENI),    23andMe,    GenePD, NeuroGenetics Research Consortium
+    (NGRC),   Hussman Institute of Human Genomics (HIHG), The Ashkenazi Jewish Dataset
+    Investigator,  Cohorts for Health and Aging Research in Genetic Epidemiology (CHARGE),
+    North American Brain Expression Consortium (NABEC), United Kingdom Brain Expression
+    Consortium (UKBEC), Greek Parkinson''s Disease Consortium,   Alzheimer Genetic
+    Analysis Group,   M. A. Ikram,  J. P. A. Ioannidis, G. M Hadjigeorgiou, J. C.
+    Bis, M. Martinez, J. S. Perlmutter,  A. Goate,   K. Marder,   B. Fiske, M. Sutherland,   G.
+    Xiromerisiou,   R. H. Myers,    L. N. Clark,   K. Stefansson,    J. A. Hardy,   P.
+    Heutink,  H. Chen,   N. W. Wood,    H. Houlden, H. Payami,   A. Brice,   W. K.
+    Scott,    T. Gasser,  L. Bertram,   N. Eriksson,  T. Foroud, A. B. Singleton'
+  citation: <i>Nature Genetics</i> (2014) doi:10.1038/ng.3043
+  summary: Six new loci for Parkinson's disease in the largest meta-analysis to date
+  thumbnail: mega-meta.png
+  links:
+  - name: Nature Genetics
+    url: http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3043.html
+2014.05.IBD:
+  category:
+  - genetics
+  title: Reducing pervasive false positive identical-by-descent segments detected
+    by large-scale pedigree analysis
+  authors: E. Y. Durand, N. Eriksson, C. Y. McLean
+  abstract: Analysis of genomic segments shared identical-by-descent (IBD) between
+    individuals is fundamental to many genetic applications, from demographic inference
+    to estimating the heritability of diseases, but IBD detection accuracy in non-simulated
+    data is largely unknown. In principle, it can be evaluated using known pedigrees,
+    as IBD segments are by definition inherited without recombination down a family
+    tree. We extracted 25,432 genotyped European individuals containing 2,952 father-mother-child
+    trios from the 23andMe, Inc. dataset. We then used GERMLINE, a widely used IBD
+    detection method, to detect IBD segments within this cohort. Exploiting known
+    familial relationships, we identified a false positive rate over 67% for 2–4 centiMorgan
+    (cM) segments, in sharp contrast with accuracies reported in simulated data at
+    these sizes. Nearly all false positives arose from the allowance of haplotype
+    switch errors when detecting IBD, a necessity for retrieving long (> 6 cM) segments
+    in the presence of imperfect phasing. We introduce HaploScore, a novel, computationally
+    efficient metric that scores IBD segments proportional to the number of switch
+    errors they contain. Applying HaploScore filtering to the IBD data at a precision
+    of 0.8 produced a 13-fold increase in recall when compared to length-based filtering.
+    We replicate the false IBD findings and demonstrate the generalizability of HaploScore
+    to alternative data sources using an independent cohort of 555 European individuals
+    from the 1000 Genomes project. HaploScore can improve the accuracy of segments
+    reported by any IBD detection method, provided that estimates of the genotyping
+    error rate and switch error rate are available.
+  citation: <i>Mol Biol Evol</i>, 30 April 2014.
+  summary: Improving the accuracy of germline on short IBD segments
+  thumbnail: haploscore.png
+  links:
+  - name: MBE
+    url: http://mbe.oxfordjournals.org/content/early/2014/04/30/molbev.msu151.abstract
+  - name: arXiv
+    url: http://arxiv.org/abs/1311.1120
+2013.12.hayfever:
+  category:
+  - genetics
+  title: Genome-wide association analysis identifies 11 risk variants associated with
+    the asthma with hay fever phenotype
+  authors: M. A. R. Ferreira, M. C. Matheson, C. S. Tang, R. Granell, W. Ang, J. Hui,
+    A. K. Kiefer, D. L. Duffy, S. Baltic, P. Danoy, M. Bui, L. Price, P. D. Sly, N.
+    Eriksson, P. A. Madden, M. J. Abramson, P. G. Holt, A. C. Heath, M. Hunter, B.
+    Musk, C. F. Robertson, P. Le Souef, W. Montgomery, A.J. Henderson, J. Y. Tung,
+    S. C. Dharmage, M. A. Brown, A. James, P. J. Thompson, C. Pennell, N. G. Martin,
+    D. M.  Evans, D. A. Hinds, J. L. Hopper
+  citation: <i>Journal of Allergy and Clinical Immunology</i>, 31 December 2013
+  links:
+  - name: JACI
+    url: http://dx.doi.org/10.1016/j.jaci.2013.10.030
+  - name: ScienceDirect
+    url: http://www.sciencedirect.com/science/article/pii/S0091674913016436
+  thumbnail: hayfever.png
+  summary: Meta-analysis of hay fever with asthma
+2013.12.boosting:
+  category:
+  - genetics
+  title: 'Gradiant Boosting as a SNP filter: an evaluation using simulated and hair
+    morphology data'
+  authors: G. H. Lubke, C. Laurin, R. Walters, N. Eriksson, P. Hysi, T. D. Spector,
+    G. W. Montgomery, D. I. Boomsma, N. G. Martin, and S. E. Medland
+  citation: <i>Journal of Data Mining in Genomics & Proteomics</i>, 2013, 4:4
+  links:
+  - name: pdf
+    url: http://www.tweelingenregister.org/nederlands/verslaggeving/NTR-publicaties_2013/Lubke_JDMGP_2013.pdf
+  thumbnail: gradiant.png
+  summary: Gradiant boosting applied to GWAS data
+2013.06.allergy:
+  category:
+  - genetics
+  title: A genome-wide association meta-analysis of self-reported allergy identifies
+    shared and allergy-specific susceptibility loci
+  authors: D. A. Hinds, G. McMahon, A. K. Kiefer, C. B. Do, N. Eriksson, D. M. Evans,
+    B. St Pourcain, S. M. Ring, J. L. Mountain, U. Francke, G. Davey-Smith, N. J.
+    Timpson, and J. Y. Tung
+  citation: <i>Nat Genet</i>, 2013 June 30.
+  thumbnail: allergy.png
+  summary: Sixteen associations with allergies, eight of them shared with asthma
+  pubmed: '23817569'
+  abstract: Allergic disease is very common and carries substantial public-health
+    burdens. We conducted a meta-analysis of genome-wide associations with self-reported
+    cat, dust-mite and pollen allergies in 53,862 individuals. We used generalized
+    estimating equations to model shared and allergy-specific genetic effects. We
+    identified 16 shared susceptibility loci with association P < 5e-8, including
+    8 loci previously associated with asthma, as well as 4p14 near TLR1, TLR6 and
+    TLR10 (rs2101521, P = 5.3e-21); 6p21.33 near HLA-C and MICA (rs9266772, P = 3.2e-12);
+    5p13.1 near PTGER4 (rs7720838, P = 8.2e-11); 2q33.1 in PLCL1 (rs10497813, P =
+    6.1e-10), 3q28 in LPP (rs9860547, P = 1.2e-9); 20q13.2 in NFATC2 (rs6021270, P
+    = 6.9e-9), 4q27 in ADAD1 (rs17388568, P = 3.9e-8); and 14q21.1 near FOXA1 and
+    TTC6 (rs1998359, P = 4.8e-8). We identified one locus with substantial evidence
+    of differences in effects across allergies at 6p21.32 in the class II human leukocyte
+    antigen (HLA) region (rs17533090, P = 1.7e-12), which was strongly associated
+    with cat allergy. Our study sheds new light on the shared etiology of immune and
+    autoimmune disease.
+  links:
+  - name: Nature Genetics
+    url: http://dx.doi.org/10.1038/ng.2686
+2013.06.PDiron:
+  category:
+  - genetics
+  title: 'Serum iron levels and the risk of Parkinson''s disease: a Mendelian randomization
+    study'
+  authors: I. Pichler, F. Del Greco M., M. Gogele, C. M. Lill, L. Bertram, C. B. Do,
+    N. Eriksson, T. Foroud, R. H. Myers, M. Nalls, M. F. Keller, B. Benyamin, J. B.
+    Whitfield, P. P. Pramstaller, A. A. Hicks, J. Thompson, and C. Minelli
+  citation: '<i>PLOS Med.</i> 10(6): e1001462.'
+  pubmed: '23750121'
+  links:
+  - name: PLOS
+    url: http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001462
+  thumbnail: pdiron.png
+  summary: Mendelian randomization study shows that higher iron levels are protective
+    for Parkinson's disease
+  abstract: Although levels of iron are known to be increased in the brains of patients
+    with Parkinson disease (PD), epidemiological evidence on a possible effect of
+    iron blood levels on PD risk is inconclusive, with effects reported in opposite
+    directions. Epidemiological studies suffer from problems of confounding and reverse
+    causation, and mendelian randomization (MR) represents an alternative approach
+    to provide unconfounded estimates of the effects of biomarkers on disease. We
+    performed a MR study where genes known to modify iron levels were used as instruments
+    to estimate the effect of iron on PD risk, based on estimates of the genetic effects
+    on both iron and PD obtained from the largest sample meta-analyzed to date.  We
+    used as instrumental variables three genetic variants influencing iron levels,
+    HFE rs1800562, HFE rs1799945, and TMPRSS6 rs855791. Estimates of their effect
+    on serum iron were based on a recent genome-wide meta-analysis of 21,567 individuals,
+    while estimates of their effect on PD risk were obtained through meta-analysis
+    of genome-wide and candidate gene studies with 20,809 PD cases and 88,892 controls.
+    Separate MR estimates of the effect of iron on PD were obtained for each variant
+    and pooled by meta-analysis. We investigated heterogeneity across the three estimates
+    as an indication of possible pleiotropy and found no evidence of it. The combined
+    MR estimate showed a statistically significant protective effect of iron, with
+    a relative risk reduction for PD of 3% (95% CI 1%-6%; p = 0.001) per 10 ug/dl
+    increase in serum iron.  Our study suggests that increased iron levels are causally
+    associated with a decreased risk of developing PD. Further studies are needed
+    to understand the pathophysiological mechanism of action of serum iron on PD risk
+    before recommendations can be made.
+2013.04.stretch:
+  category:
+  - genetics
+  - flc
+  authors: J. Y. Tung, A.K. Kiefer, M. Mullins, U. Francke, and N. Eriksson
+  title: Genome-Wide Association Analysis Implicates Elastic Microfibrils in the Development
+    of Nonsyndromic Striae Distensae
+  citation: <i>J Invest Dermatol</i>, 2013 Apr 30
+  links:
+  - name: JID
+    url: http://dx.doi.org/10.1038/jid.2013.196
+  pubmed: '23633020'
+  thumbnail: stretch.png
+  summary: Variants near the elastin gene influence stretch marks
+2013.03.myopia,:
+  category:
+  - genetics
+  - flc
+  authors: A. K. Kiefer, J. Y. Tung, C. B. Do, D. A. Hinds, J. L. Mountain, U. Francke,
+    and N. Eriksson
+  title: Genome-wide analysis points to roles for extracellular matrix remodeling,
+    the visual cycle, and neuronal development in myopia
+  citation: '<i>PLoS Genet.</i>, 9(2): e1003299.'
+  pubmed: '23468642'
+  abstract: Myopia, or nearsightedness, is the most common eye disorder, resulting
+    primarily from excess elongation of the eye. The etiology of myopia, although
+    known to be complex, is poorly understood. Here we report the largest ever genome-wide
+    association study (45,771 participants) on myopia in Europeans. We performed a
+    survival analysis on age of myopia onset and identified 22 significant associations
+    (p<5e-8), two of which are replications of earlier associations with refractive
+    error. Ten of the 20 novel associations identified replicate in a separate cohort
+    of 8,323 participants who reported if they had developed myopia before age 10.
+    These 22 associations in total explain 2.9% of the variance in myopia age of onset
+    and point toward a number of different mechanisms behind the development of myopia.
+    One association is in the gene PRSS56, which has previously been linked to abnormally
+    small eyes; one is in a gene that forms part of the extracellular matrix (LAMA2);
+    two are in or near genes involved in the regeneration of 11-cis-retinal (RGR and
+    RDH5); two are near genes known to be involved in the growth and guidance of retinal
+    ganglion cells (ZIC2, SFRP1); and five are in or near genes involved in neuronal
+    signaling or development. These novel findings point toward multiple genetic factors
+    involved in the development of myopia and suggest that complex interactions between
+    extracellular matrix remodeling, neuronal development, and visual signals from
+    the retina may underlie the development of myopia in humans.
+  summary: Twenty-two associations for myopia age of onset, many of which are near
+    genes with interesting roles in vision development.
+  thumbnail: myopia.png
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003299
+  - name: arXiv
+    url: http://arxiv.org/abs/1209.2089
+2013.02.brca:
+  category:
+  - genetics
+  authors: U. Francke, C. Dijamco, A. K. Kiefer, N. Eriksson, B. R. Moiseff, J. Y.
+    Tung, and J. L. Mountain
+  title: 'Dealing with the unexpected: Consumer responses to direct-access <i>BRCA</i>
+    mutation testing'
+  pubmed: '23638402'
+  citation: <i>PeerJ</i>, 1:e8.
+  links:
+  - name: PeerJ
+    url: https://peerj.com/articles/8
+  thumbnail: brca.png
+  abstract: 'Background: Inherited BRCA gene mutations convey a high risk for breast
+    and ovarian cancer, but current guidelines limit BRCA mutation testing to women
+    with early-onset cancer and relatives of mutation-positive cases.  Benefits and
+    risks of providing this information directly to consumers are unknown.  Methods:
+    To assess and quantify emotional and behavioral reactions of consumers to their
+    23andMe Personal Genome Service report of three BRCA mutations that are common
+    in Ashkenazi Jews, we invited all 136 BRCA1 and BRCA2 mutation-positive individuals
+    in the 23andMe customer database who had chosen to view their BRCA reports to
+    participate in this IRB-approved study. We also invited 160 mutation-negative
+    customers who were matched for age, sex and ancestry. Semi-structured phone interviews
+    were completed for 32 mutation carriers, 16 women and 16 men, and 31 non-carriers.
+    Questions addressed personal and family history of cancer, decision and timing
+    of viewing the BRCA report, recollection of the result, emotional responses, perception
+    of personal cancer risk, information sharing, and actions taken or planned.  Results:
+    Eleven women and 14 men had received the unexpected result that they are carriers
+    of a BRCA1 185delAG or 5382insC, or BRCA2 6174delT mutation. None of them reported
+    extreme anxiety and four experienced moderate anxiety that was transitory. Remarkably,
+    five women and six men described their response as neutral. Most carrier women
+    sought medical advice and four underwent risk-reducing procedures after confirmatory
+    mutation testing. Male carriers realized that their test results implied genetic
+    risk for female relatives, and several of them felt considerably burdened by this
+    fact. Sharing mutation information with family members led to screening of at
+    least 30 relatives and identification of 13 additional carriers. Non-carriers
+    did not report inappropriate actions, such as foregoing cancer screening. All
+    but one of the 32 mutation-positive participants appreciated learning their BRCA
+    mutation status.  Conclusions: Direct access to BRCA mutation tests, considered
+    a model for high-risk actionable genetic tests of proven clinical utility, provided
+    clear benefits to participants. The unexpected information demonstrated a cascade
+    effect as relatives of newly identified carriers also sought testing and more
+    mutation carriers were identified. Given the absence of evidence for serious emotional
+    distress or inappropriate actions, broader screening of Ashkenazi Jewish women
+    for these three BRCA mutations should be considered.'
+  summary: How do people respond to learning their BRCA status via 23andMe?
+2013.01.baldness2:
+  category:
+  - genetics
+  title: 'Androgenetic alopecia: identification of four new genetic risk loci and
+    evidence for the contribution of WNT-signaling to its etiology'
+  authors: S. Heilmann, A. K. Kiefer, N. Fricker, D. Drichel, A. M. Hillmer, C. Herold,
+    J. Y. Tung, N. Eriksson, S. Redler, R. C. Betz, R. Li, A. Karason, D. R. Nyholt,
+    K. Song, S. H. Vermeulen, S. Kanoni, G. Dedoussis, N. G. Martin, L. A. Kiemeney,
+    V. Mooser, K. Stefansson, J. B. Richards, T. Becker, F. F. Brockschmidt, D. A.
+    Hinds, and M. M. Nothen
+  pubmed: '23358095'
+  citation: <i>J Invest Dermatol</i>, 2013 Jan 28.
+  links:
+  - name: JID
+    url: http://dx.doi.org/10.1038/jid.2013.43
+  thumbnail: aa.png
+  abstract: The pathogenesis of androgenetic alopecia (AGA, male-pattern baldness)
+    is driven by androgens, and genetic predisposition is the major prerequisite.
+    Candidate gene and genome-wide association studies have reported that single nucleotide
+    polymorphisms (SNPs) at eight different genomic loci are associated with AGA-development.
+    However a significant fraction of the overall heritable risk still awaits identification.
+    Furthermore, understanding of the pathophysiology of AGA is incomplete, and each
+    newly associated locus may provide novel insights into contributing biological
+    pathways. The aim of this study was to identify unknown AGA risk loci by replicating
+    SNPs at the twelve genomic loci that showed suggestive association (5 x 10(-8)<
+    P <10(-5)) with AGA in a recent meta-analysis. We analyzed a replication-set comprising
+    2,759 cases and 2,661 controls of European descent to confirm the association
+    with AGA at these loci. Combined analysis of the replication and the meta-analysis
+    data identified four genome-wide significant risk loci for AGA on chromosomes
+    2q35, 3q25.1, 5q33.3, and 12p12.1. The strongest association signal was obtained
+    for rs7349332 (P=3.55 x 10(-15)) on chr2q35, which is located intronically in
+    WNT10A. Expression studies in human hair follicle tissue suggest that WNT10A plays
+    a functional role in AGA-etiology. Thus, our study provides genetic evidence supporting
+    an involvement of WNT-signaling in AGA-development
+  summary: Four new loci for male-pattern baldness.
+2012.12.cilantro:
+  category:
+  - genetics
+  - flc
+  authors: N. Eriksson, S. Wu, C. B. Do, A. K. Kiefer, J. Y. Tung, J. L.  Mountain,
+    D. A. Hinds, and U. Francke
+  title: A genetic variant near olfactory receptor genes influences cilantro preference
+  citation: <i>Flavour</i>, 1:22, Dec 2012.
+  abstract: The leaves of the Coriandrum sativum plant, known as cilantro or coriander,
+    are widely used in many cuisines around the world. However, far from being a benign
+    culinary herb, cilantro can be polarizing---many people love it while others claim
+    that it tastes or smells foul, often like soap or dirt. This soapy or pungent
+    aroma is largely attributed to several aldehydes present in cilantro. Cilantro
+    preference is suspected to have a genetic component, yet to date nothing is known
+    about specific mechanisms. Here we present the results of a genome-wide association
+    study among 14,604 participants of European ancestry who reported whether cilantro
+    tasted soapy, with replication in a distinct set of 11,851 participants who declared
+    whether they liked cilantro. We find a single nucleotide polymorphism (SNP) significantly
+    associated with soapy-taste detection that is confirmed in the cilantro preference
+    group. This SNP, rs72921001, (p=6.4e-9, odds ratio 0.81 per A allele) lies within
+    a cluster of olfactory receptor genes on chromosome 11. Among these olfactory
+    receptor genes is OR6A2, which has a high binding specificity for several of the
+    aldehydes that give cilantro its characteristic odor. We also estimate the heritability
+    of cilantro soapy-taste detection in our cohort, showing that the heritability
+    tagged by common SNPs is low, about 0.087. These results confirm that there is
+    a genetic component to cilantro taste perception and suggest that cilantro dislike
+    may stem from genetic variants in olfactory receptors. We propose that OR6A2 may
+    be the olfactory receptor that contributes to the detection of a soapy smell from
+    cilantro in European populations.
+  thumbnail: cilantro.png
+  summary: We uncover a cluster of olfactory receptor genes that play a role in cilantro
+    dislike.
+  press:
+  - name: Nature
+    url: http://www.nature.com/news/soapy-taste-of-coriander-linked-to-genetic-variants-1.11398
+  - name: NPR
+    url: http://www.npr.org/blogs/thesalt/2012/09/14/161057954/love-to-hate-cilantro-its-in-your-genes-and-maybe-in-your-head
+  - name: Gizmodo
+    url: http://gizmodo.com/5942551/genetic-proof-that-you-really-do-hate-cilantro
+  - name: BoingBoing
+    url: http://boingboing.net/2012/09/12/why-cilantro-haters-hate-cilan.html
+  - name: MetaFilter
+    url: http://www.metafilter.com/119873/O-soapy-flavour-Why-pollutest-thou-my-food-Thou-me-makest-retch
+  - name: Business Insider
+    url: http://www.businessinsider.com/cilantro-corriander-taste-gene-found-2012-9
+  - name: Huffington Post
+    url: http://www.huffingtonpost.com/2012/09/20/cilantro-aversion-gene-study_n_1901124.html
+  blogs:
+  - name: The Spittoon
+    url: http://spittoon.23andme.com/23andme-research/cilantro-love-hate-genetic-trait/
+  - name: Haldane's Sieve
+    url: http://haldanessieve.org/2012/09/14/our-paper-a-genetic-variant-near-olfactory-receptor-genes-influences-cilantro-preference/
+  links:
+  - name: Flavour
+    url: http://www.flavourjournal.com/content/1/1/22/abstract
+  - name: arXiv
+    url: http://arxiv.org/abs/1209.2096
+2012.10.famhist:
+  category:
+  - genetics
+  - flc
+  authors: C. B. Do, D. A. Hinds, U. Francke, and N. Eriksson
+  title: Comparison of Family History and SNPs for Predicting Risk of Complex Disease
+  citation: '<i>PLoS Genet.</i>, 8(10): e1002973, October 2012.'
+  pubmed: '23071447'
+  abstract: The clinical utility of family history and genetic tests is generally
+    well understood for simple Mendelian disorders and rare subforms of complex diseases
+    that are directly attributable to highly penetrant genetic variants. However,
+    little is presently known regarding the performance of these methods in situations
+    where disease susceptibility depends on the cumulative contribution of multiple
+    genetic factors of moderate or low penetrance. Using quantitative genetic theory,
+    we develop a model for studying the predictive ability of family history and single
+    nucleotide polymorphism (SNP)-based methods for assessing risk of polygenic disorders.
+    We show that family history is most useful for highly common, heritable conditions
+    (e.g., coronary artery disease), where it explains roughly 20%-30% of disease
+    heritability, on par with the most successful SNP models based on associations
+    discovered to date. In contrast, we find that for diseases of moderate or low
+    frequency (e.g., Crohn disease) family history accounts for less than 4% of disease
+    heritability, substantially lagging behind SNPs in almost all cases. These results
+    indicate that, for a broad range of diseases, already identified SNP associations
+    may be better predictors of risk than their family history-based counterparts,
+    despite the large fraction of missing heritability that remains to be explained.
+    Our model illustrates the difficulty of using either family history or SNPs for
+    standalone disease prediction. On the other hand, we show that, unlike family
+    history, SNP-based tests can reveal extreme likelihood ratios for a relatively
+    large percentage of individuals, thus providing potentially valuable adjunctive
+    evidence in a differential diagnosis.
+  summary: We develop models based on quantitative genetic theory to analyze and compare
+    family history and SNP-based risk prediction models.
+  thumbnail: famhist.png
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002973
+  blogs:
+  - name: The turning of the key
+    url: http://nickeriksson.blogspot.com/2012/08/on-height-prediction.html
+  - name: The Spitoon
+    url: http://spittoon.23andme.com/23andme-research/using-genetics-and-family-history-for-health
+  press:
+  - name: SF Chronicle
+    url: http://blog.sfgate.com/techchron/2012/10/17/genetics-firm-weaves-history-and-dna-for-predicting-diseases/
+2012.06.breastsize:
+  category:
+  - genetics
+  - flc
+  authors: N. Eriksson, G. M. Benton, C. B. Do, A. K. Kiefer, J. L. Mountain, D. A.
+    Hinds, U. Francke, and J. Y. Tung
+  title: Genetic variants associated with breast size also influence breast cancer
+    risk
+  citation: <i>BMC Med Genet</i>, 13(1):53, Jun 2012
+  abstract: 'While some factors of breast morphology, such as density, are directly
+    implicated in breast cancer, the relationship between breast size and cancer is
+    less clear. Breast size is moderately heritable, yet the genetic variants leading
+    to differences in breast size have not been identified. To investigate the genetic
+    factors underlying breast size, we conducted a genome-wide association study (GWAS)
+    of self-reported bra cup size, controlling for age, genetic ancestry, breast surgeries,
+    pregnancy history and bra band size, in a cohort of 16,175 women of European ancestry.
+    We identified seven single-nucleotide polymorphisms (SNPs) significantly associated
+    with breast size (p<5e-8): rs7816345 near ZNF703, rs4849887 and (independently)
+    rs17625845 flanking INHBB, rs12173570 near ESR1, rs7089814 in ZNF365, rs12371778
+    near PTHLH, and rs62314947 near AREG.  Two of these seven SNPs are in linkage
+    disequilibrium (LD) with SNPs associated with breast cancer (those near ESR1 and
+    PTHLH), and a third (ZNF365) is near, but not in LD with, a breast cancer SNP.
+    The other three loci (ZNF703, INHBB, and AREG) have strong links to breast cancer,
+    estrogen regulation, and breast development. These results provide insight into
+    the genetic factors underlying normal breast development and show that some of
+    these factors are shared with breast cancer. While these results do not directly
+    support any possible epidemiological relationships between breast size and cancer,
+    this study may contribute to a better understanding of the subtle interactions
+    between breast morphology and breast cancer risk.'
+  summary: We discover a number of SNPs associated with breast size. Surprisingly,
+    several are also involved in breast cancer.
+  thumbnail: bsize.png
+  pubmed: '22747683'
+  links:
+  - name: BMC
+    url: http://www.biomedcentral.com/1471-2350/13/53/abstract
+  press:
+  - name: Jezebel
+    url: http://jezebel.com/5923807/scientists-find-the-genes-that-determine-breast-size
+  - name: Huffington Post
+    url: http://www.huffingtonpost.com/2012/07/05/breast-cancer-risk-breast-size-study_n_1652292.html
+  - name: The Telegraph
+    url: http://www.telegraph.co.uk/health/healthnews/9377624/Breast-cancer-linked-to-bra-size.html
+  blogs:
+  - name: The Spitoon
+    url: http://spittoon.23andme.com/23andme-research/breast-size-matters-but-not-in-the-way-you-think/
+2012.05.baldness:
+  category:
+  - genetics
+  authors: R. Li, F. F. Brockschmidt, A. K. Kiefer, H. Stefansson, D. R. Nyholt, K.
+    Song, S. H. Vermeulen, S. Kanoni, D. Glass, S. E. Medland, M. Dimitriou, D. Waterworth,
+    J. Y. Tung, F. Geller, S. Heilmann, A. M. Hillmer, V. Bataille, S. Eigelshoven,
+    S. Hanneken, S. Moebus, C. Herold, M. den Heijer, G. W. Montgomery, P. Deloukas,
+    N. Eriksson, A. C. Heath, T. Becker, P. Sulem, M. Mangino, P. Vollenweider, T.
+    D. Spector, G. Dedoussis, N. G.  Martin, L. A. Kiemeney, V. Mooser, K. Stefansson,
+    D. A. Hinds, M. M. Nothen, and J. B. Richards
+  title: Six novel susceptibility Loci for early-onset androgenetic alopecia and their
+    unexpected association with common diseases
+  citation: <i>PLoS Genet.</i>, 8(5):e1002746, May 2012.
+  abstract: 'Androgenetic alopecia (AGA) is a highly heritable condition and the most
+    common form of hair loss in humans. Susceptibility loci have been described on
+    the X chromosome and chromosome 20, but these loci explain a minority of its heritable
+    variance. We conducted a large-scale meta-analysis of seven genome-wide association
+    studies for early-onset AGA in 12,806 individuals of European ancestry. While
+    replicating the two AGA loci on the X chromosome and chromosome 20, six novel
+    susceptibility loci reached genome-wide significance (p=2.62e-9 -- 1.01e-12).
+    Unexpectedly, we identified a risk allele at 17q21.31 that was recently associated
+    with Parkinson''s disease (PD) at a genome-wide significant level. We then tested
+    the association between early-onset AGA and the risk of PD in a cross-sectional
+    analysis of 568 PD cases and 7,664 controls. Early-onset AGA cases had significantly
+    increased odds of subsequent PD (OR=1.28, 95% confidence interval: 1.06-1.55,
+    p=8.9e-3). Further, the AGA susceptibility alleles at the 17q21.31 locus are on
+    the H1 haplotype, which is under negative selection in Europeans and has been
+    linked to decreased fertility. Combining the risk alleles of six novel and two
+    established susceptibility loci, we created a genotype risk score and tested its
+    association with AGA in an additional sample. Individuals in the highest risk
+    quartile of a genotype score had an approximately six-fold increased risk of early-onset
+    AGA [odds ratio (OR)=5.78, p=1.4e-88]. Our results highlight unexpected associations
+    between early-onset AGA, Parkinson''s disease, and decreased fertility, providing
+    important insights into the pathophysiology of these conditions.'
+  pubmed: '22693459'
+  thumbnail: bald.png
+  summary: A large meta-analysis of male-pattern baldness uncovers unexpected connections
+    with Parkinson's disease
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002746
+  blogs:
+  - name: The Spitoon
+    url: http://spittoon.23andme.com/23andme-research/23andmes-latest-publication-shines-light-on-male-pattern-baldness-and-unexpected-associations-with-disease/
+2012.04.hypothyroid:
+  category:
+  - genetics
+  - flc
+  authors: N. Eriksson, J. Y. Tung, A. K. Kiefer, D. A. Hinds, U. Francke, J. L. Mountain,
+    and C. B. Do
+  title: Novel associations for hypothyroidism include known autoimmune risk loci
+  citation: <i>PLoS ONE</i>, 7(4):e34442, 2012.
+  abstract: 'Hypothyroidism is the most common thyroid disorder, affecting about 5%
+    of the general population. Here we present the current largest genome-wide association
+    study of hypothyroidism, in 3,736 cases and 35,546 controls. Hypothyroidism was
+    assessed via web-based questionnaires. We identify five genome-wide significant
+    associations, three of which are well known to be involved in a large spectrum
+    of autoimmune diseases: rs6679677 near PTPN22, rs3184504 in SH2B3, and rs2517532
+    in the HLA class I region (p-values 2.8e-13, 2.6e-12, and 1.3e-8, respectively).
+    We also report associations with rs4915077 near VAV3 (p-value 7.5e-10) and rs925489
+    near FOXE1 (p-value 2.4e-19). VAV3 is involved in immune function, and FOXE1 and
+    PTPN22 have previously been associated with hypothyroidism. Although the HLA class
+    I region and SH2B3 have previously been linked with a number of autoimmune diseases,
+    this is the first report of their association with thyroid disease. The VAV3 association
+    is also novel. We also show suggestive evidence of association for hypothyroidism
+    with a SNP in the HLA class II region (independent of the other HLA association)
+    as well as SNPs in CAPZB, PDE8B, and CTLA4. CAPZB and PDE8B have been linked to
+    TSH levels and CTLA4 to a variety of autoimmune diseases. These results suggest
+    heterogeneity in the genetic etiology of hypothyroidism, implicating genes involved
+    in both autoimmune disorders and thyroid function. Using a genetic risk profile
+    score based on the top association from each of the five genome-wide significant
+    regions in our study, the relative risk between the highest and lowest deciles
+    of genetic risk is 2.0.'
+  pubmed: '22493691'
+  thumbnail: thyroid.png
+  summary: A GWAS for hypothyroidism implicates genes involved in both autoimmune
+    disorders and thyroid function.
+  links:
+  - name: PLoS
+    url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0034442
+2012.04.ibd:
+  category:
+  - genetics
+  authors: B. M. Henn, L. Hon, J. M. Macpherson, N. Eriksson, S. Saxonov, I. Pe'er,
+    and J. L. Mountain
+  title: Cryptic distant relatives are common in both isolated and cosmopolitan genetic
+    samples
+  citation: <i>PLoS ONE</i>, 7(4):e34267, 2012.
+  abstract: Although a few hundred single nucleotide polymorphisms (SNPs) suffice
+    to infer close familial relationships, high density genome-wide SNP data make
+    possible the inference of more distant relationships such as 2(nd) to 9(th) cousinships.
+    In order to characterize the relationship between genetic similarity and degree
+    of kinship given a timeframe of 100-300 years, we analyzed the sharing of DNA
+    inferred to be identical by descent (IBD) in a subset of individuals from the
+    23andMe customer database (n=22,757) and from the Human Genome Diversity Panel
+    (HGDP-CEPH, n=952). With data from 121 populations, we show that the average amount
+    of DNA shared IBD in most ethnolinguistically-defined populations, for example
+    Native American groups, Finns and Ashkenazi Jews, differs from continentally-defined
+    populations by several orders of magnitude. Via extensive pedigree-based simulations,
+    we determined bounds for predicted degrees of relationship given the amount of
+    genomic IBD sharing in both endogamous and 'unrelated' population samples. Using
+    these bounds as a guide, we detected tens of thousands of 2(nd) to 9(th) degree
+    cousin pairs within a heterogenous set of 5,000 Europeans. The ubiquity of distant
+    relatives, detected via IBD segments, in both ethnolinguistic populations and
+    in large 'unrelated' populations samples has important implications for genetic
+    genealogy, forensics and genotype/phenotype mapping studies.
+  pubmed: '22509285'
+  summary: An analysis of the number of cryptic distant relatives among various populations.
+  thumbnail: ibd.png
+  links:
+  - name: PLoS
+    url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0034267
+2011.08.replication:
+  category:
+  - genetics
+  - flc
+  authors: J. Y. Tung, C. B. Do, D. A. Hinds, A. K. Kiefer, J. M. Macpherson, A. B.  Chowdry,
+    U. Francke, B. T. Naughton, J. L. Mountain, A. Wojcicki, and N. Eriksson
+  title: Efficient replication of over 180 genetic associations with self-reported
+    medical data
+  citation: <i>PLoS ONE</i>, 6(8):e23473, 2011.
+  abstract: While the cost and speed of generating genomic data have come down dramatically
+    in recent years, the slow pace of collecting medical data for large cohorts continues
+    to hamper genetic research. Here we evaluate a novel online framework for obtaining
+    large amounts of medical information from a recontactable cohort by assessing
+    our ability to replicate genetic associations using these data. Using web-based
+    questionnaires, we gathered self-reported data on 50 medical phenotypes from a
+    generally unselected cohort of over 20,000 genotyped individuals. Of a list of
+    genetic associations curated by NHGRI, we successfully replicated about 75% of
+    the associations that we expected to (based on the number of cases in our cohort
+    and reported odds ratios, and excluding a set of associations with contradictory
+    published evidence).  Altogether we replicated over 180 previously reported associations,
+    including many for type 2 diabetes, prostate cancer, cholesterol levels, and multiple
+    sclerosis. We found significant variation across categories of conditions in the
+    percentage of expected associations that we were able to replicate, which may
+    reflect systematic inflation of the effects in some initial reports, or differences
+    across diseases in the likelihood of misdiagnosis or misreport. We also demonstrated
+    that we could improve replication success by taking advantage of our recontactable
+    cohort, offering more in-depth questions to refine self-reported diagnoses. Our
+    data suggest that online collection of self-reported data from a recontactable
+    cohort may be a viable method for both broad and deep phenotyping in large populations.
+  pubmed: '21858135'
+  summary: Replication of many associations using the 23andMe database.
+  thumbnail: replication.png
+  links:
+  - name: PLoS
+    url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0023473
+  blogs:
+  - name: The Spitoon
+    url: http://spittoon.23andme.com/news/announcements/third-publication-efficient-replication-plosone/
+2012.03.pdgene:
+  category:
+  - genetics
+  authors: C. M. Lill, J. T. Roehr, M. B. McQueen, F. K. Kavvoura, S. Bagade, B. M.  Schjeide,
+    L. M. Schjeide, E. Meissner, U. Zauft, N. C. Allen, T. Liu, M. Schilling, K. J.
+    Anderson, G. Beecham, D. Berg, J. M. Biernacka, A. Brice, A. L. DeStefano, C.
+    B. Do, N. Eriksson, S. A. Factor, M. J. Farrer, T. Foroud, T. Gasser, T. Hamza,
+    J. A. Hardy, P. Heutink, E. M. Hill-Burns, C. Klein, J. C. Latourelle, D. M. Maraganore,
+    E. R. Martin, M. Martinez, R. H. Myers, M. A. Nalls, N. Pankratz, H. Payami, W.
+    Satake, W. K. Scott, M. Sharma, A. B. Singleton, K. Stefansson, T. Toda, J. Y.
+    Tung, J. Vance, N. W. Wood, C. P. Zabetian, P. Young, R. E. Tanzi, M. J. Khoury,
+    F. Zipp, H. Lehrach, J. P. Ioannidis, and L. Bertram
+  title: 'Comprehensive research synopsis and systematic meta-analyses in Parkinson''s
+    disease genetics: The PDGene database'
+  citation: <i>PLoS Genet.</i>, 8(3):e1002548, 2012.
+  abstract: 'More than 800 published genetic association studies have implicated dozens
+    of potential risk loci in Parkinson''s disease (PD). To facilitate the interpretation
+    of these findings, we have created a dedicated online resource, PDGene, that comprehensively
+    collects and meta-analyzes all published studies in the field. A systematic literature
+    screen of -27,000 articles yielded 828 eligible articles from which relevant data
+    were extracted. In addition, individual-level data from three publicly available
+    genome-wide association studies (GWAS) were obtained and subjected to genotype
+    imputation and analysis.  Overall, we performed meta-analyses on more than seven
+    million polymorphisms originating either from GWAS datasets and/or from smaller
+    scale PD association studies. Meta-analyses on 147 SNPs were supplemented by unpublished
+    GWAS data from up to 16,452 PD cases and 48,810 controls. Eleven loci showed genome-wide
+    significant (P < 5e-8) association with disease risk: BST1, CCDC62/HIP1R, DGKQ/GAK,
+    GBA, LRRK2, MAPT, MCCC1/LAMP3, PARK16, SNCA, STK39, and SYT11/RAB25. In addition,
+    we identified novel evidence for genome-wide significant association with a polymorphism
+    in ITGA8 (rs7077361, OR 0.88, P=1.3e-8). All meta-analysis results are freely
+    available on a dedicated online database (www.pdgene.org), which is cross-linked
+    with a customized track on the UCSC Genome Browser. Our study provides an exhaustive
+    and up-to-date summary of the status of PD genetics research that can be readily
+    scaled to include the results of future large-scale genetics projects, including
+    next-generation sequencing studies.'
+  pubmed: '22438815'
+  summary: A comprehensive collection and meta-analysis of all genetic research in
+    Parkinson's disease.
+  thumbnail: pdgene.png
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002548
+  blogs:
+  - name: The Spitoon
+    url: http://spittoon.23andme.com/news/announcements/pdgene-enters-the-scene-for-parkinsons-research/
+2011.11.pathway:
+  category:
+  - genetics
+  - statistics
+  authors: M. Gerstung, N. Eriksson, J. Lin, B. Vogelstein, and N. Beerenwinkel
+  title: The temporal order of genetic and pathway alterations in tumorigenesis
+  citation: <i>PLoS ONE</i>, 6(11):e27136, 2011.
+  abstract: Cancer evolves through the accumulation of mutations, but the order in
+    which mutations occur is poorly understood. Inference of a temporal ordering on
+    the level of genes is challenging because clinically and histologically identical
+    tumors often have few mutated genes in common. This heterogeneity may at least
+    in part be due to mutations in different genes having similar phenotypic effects
+    by acting in the same functional pathway. We estimate the constraints on the order
+    in which alterations accumulate during cancer progression from cross-sectional
+    mutation data using a probabilistic graphical model termed Hidden Conjunctive
+    Bayesian Network (H-CBN). The possible orders are analyzed on the level of genes
+    and, after mapping genes to functional pathways, also on the pathway level. We
+    find stronger evidence for pathway order constraints than for gene order constraints,
+    indicating that temporal ordering results from selective pressure acting at the
+    pathway level. The accumulation of changes in core pathways differs among cancer
+    types, yet a common feature is that progression appears to begin with mutations
+    in genes that regulate apoptosis pathways and to conclude with mutations in genes
+    involved in invasion pathways. H-CBN models provide a quantitative and intuitive
+    model of tumorigenesis showing that the genetic events can be linked to the phenotypic
+    progression on the level of pathways.
+  pubmed: '22069497'
+  summary: Analysis of mutation accumulation in cancer using next-generation sequence
+    data and conjunctive Bayesian networks.
+  thumbnail: pathways.png
+  links:
+  - name: PLoS
+    url: http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0027136
+2011.06.pd:
+  category:
+  - genetics
+  - flc
+  authors: C. B. Do, J. Y. Tung, E. Dorfman, A. K. Kiefer, E. M. Drabant, U. Francke,
+    J. L. Mountain, S. M. Goldman, C. M. Tanner, J. W. Langston, A. Wojcicki, and
+    N. Eriksson
+  title: Web-based genome-wide association study identifies two novel loci and a substantial
+    genetic component for Parkinson's disease
+  citation: <i>PLoS Genet.</i>, 7(6):e1002141, Jun 2011.
+  abstract: Although the causes of Parkinson's disease (PD) are thought to be primarily
+    environmental, recent studies suggest that a number of genes influence susceptibility.
+    Using targeted case recruitment and online survey instruments, we conducted the
+    largest case-control genome-wide association study (GWAS) of PD based on a single
+    collection of individuals to date (3,426 cases and 29,624 controls). We discovered
+    two novel, genome-wide significant associations with PD-rs6812193 near SCARB2
+    (p=7.6e-10, OR=0.84) and rs11868035 near SREBF1/RAI1 (p=5.6e-8, OR=0.85)-both
+    replicated in an independent cohort. We also replicated 20 previously discovered
+    genetic associations (including LRRK2, GBA, SNCA, MAPT, GAK, and the HLA region),
+    providing support for our novel study design. Relying on a recently proposed method
+    based on genome-wide sharing estimates between distantly related individuals,
+    we estimated the heritability of PD to be at least 0.27. Finally, using sparse
+    regression techniques, we constructed predictive models that account for 6-7%
+    of the total variance in liability and that suggest the presence of true associations
+    just beyond genome-wide significance, as confirmed through both internal and external
+    cross-validation.  These results indicate a substantial, but by no means total,
+    contribution of genetics underlying susceptibility to both early-onset and late-onset
+    PD, suggesting that, despite the novel associations discovered here and elsewhere,
+    the majority of the genetic component for Parkinson's disease remains to be discovered.
+  pubmed: '21738487'
+  thumbnail: pd.png
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002141
+  press:
+  - name: Wired
+    url: http://www.wired.com/magazine/2010/06/ff_sergeys_search/
+  - name: FastCompany
+    url: http://www.fastcoexist.com/1678218/23andme-moves-into-serious-genomic-research
+  - name: WebMD
+    url: http://www.webmd.com/parkinsons-disease/news/20110624/new-genetic-clues-to-cause-of-parkinsons
+  - name: Nature
+    url: http://www.nature.com/nature/journal/v475/n7357/full/475427f.html
+  - name: Bloomberg
+    url: http://www.bloomberg.com/news/2012-05-11/google-s-brin-makes-strides-in-hunt-for-parkinson-s-cure-health.html
+2011.04.alignment:
+  category:
+  - genetics
+  authors: A. S. Malaspinas, N. Eriksson, and P. Huggins
+  title: Parametric analysis of alignment and phylogenetic uncertainty
+  citation: <i>Bull. Math. Biol.</i>, 73:795--810, Apr 2011.
+  abstract: To infer a phylogenetic tree from a set of DNA sequences, typically a
+    multiple alignment is first used to obtain homologous bases. The inferred phylogeny
+    can be very sensitive to how the alignment was created.  We develop tools for
+    analyzing the robustness of phylogeny to perturbations in alignment parameters
+    in the Needleman--Wunsch algorithm. Our main tool is parametric alignment, with
+    novel improvements that are of general interest in parametric inference. Using
+    parametric alignment and Gaussian distribution on alignment parameters, we derive
+    probabilities of optimal alignment summaries and inferred phylogenies. We apply
+    our method to analyze subsets of four Drosophila flies. We show that phylogeny
+    and branch length estimates can be sensitive to the choice of alignment parameters,
+    and that parametric alignment elucidates the relationship between alignment parameters
+    and reconstructed trees.
+  summary: We show how to analyze the robustness of phylogenies to perturbations in
+    alignment parameters.
+  pubmed: '21409513'
+  thumbnail: parametric.png
+  links:
+  - name: BMB
+    url: http://link.springer.com/article/10.1007%2Fs11538-010-9610-8
+2011.04.shorah:
+  category:
+  - genetics
+  - sequencing
+  authors: O. Zagordi, A. Bhattacharya, N. Eriksson, and N. Beerenwinkel
+  title: 'ShoRAH: estimating the genetic diversity of a mixed sample from next-generation
+    sequencing data'
+  citation: <i>BMC Bioinformatics</i>, 12:119, Apr 2011.
+  abstract: With next-generation sequencing technologies, experiments that were considered
+    prohibitive only a few years ago are now possible. However, while these technologies
+    have the ability to produce enormous volumes of data, the sequence reads are prone
+    to error. This poses fundamental hurdles when genetic diversity is investigated.  We
+    developed ShoRAH, a computational method for quantifying genetic diversity in
+    a mixed sample and for identifying the individual clones in the population, while
+    accounting for sequencing errors. The software was run on simulated data and and
+    on real data obtained in wet lab experiments to assess its reliability.  ShoRAH
+    is implemented in C++, Python, and Perl and has been tested under Linux and Mac
+    OS X. Source code is available under the GNU General Public License at <a href="http://www.cbg.ethz.ch/software/shorah">www.cbg.ethz.ch/software/shorah</a>.
+  pubmed: '21521499'
+  thumbnail: shorah.png
+  links:
+  - name: BMC
+    url: http://www.biomedcentral.com/1471-2105/12/119
+  - name: Software
+    url: http://www.silva.bsse.ethz.ch/cbg/software/shorah
+2010ttam:
+  category:
+  - genetics
+  - flc
+  authors: N. Eriksson, J. M. Macpherson, J. Y. Tung, L. S. Hon, B. Naughton, S. Saxonov,
+    L. Avey, A. Wojcicki, I. Pe'er, and J. Mountain
+  title: Web-based, participant-driven studies yield novel genetic associations for
+    common traits
+  citation: <i>PLoS Genet.</i>, 6:e1000993, Jun 2010.
+  abstract: Despite the recent rapid growth in genome-wide data, much of human variation
+    remains entirely unexplained. A significant challenge in the pursuit of the genetic
+    basis for variation in common human traits is the efficient, coordinated collection
+    of genotype and phenotype data. We have developed a novel research framework that
+    facilitates the parallel study of a wide assortment of traits within a single
+    cohort. The approach takes advantage of the interactivity of the Web both to gather
+    data and to present genetic information to research participants, while taking
+    care to correct for the population structure inherent to this study design. Here
+    we report initial results from a participant-driven study of 22 traits.  Replications
+    of associations (in the genes OCA2, HERC2, SLC45A2, SLC24A4, IRF4, TYR, TYRP1,
+    ASIP, and MC1R) for hair color, eye color, and freckling validate the Web-based,
+    self-reporting paradigm. The identification of novel associations for hair morphology
+    (rs17646946, near TCHH; rs7349332, near WNT10A; and rs1556547, near OFCC1), freckling
+    (rs2153271, in BNC2), the ability to smell the methanethiol produced after eating
+    asparagus (rs4481887, near OR2M7), and photic sneeze reflex (rs10427255, near
+    ZEB2, and rs11856995, near NR2F2) illustrates the power of the approach.
+  pubmed: '20585627'
+  thumbnail: common.png
+  summary: We discover novel genetic associations for hair curl, photic sneeze reflex,
+    freckling, and asparagus metabolite detection.
+  links:
+  - name: PLoS
+    url: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000993
+  press:
+  - name: F1000
+    url: http://f1000.com/4871956
+  - name: Nature
+    url: http://blogs.nature.com/spoonful/2010/06/gene_found_for_smelling_aspara.html
+  - name: ABC
+    url: http://abcnews.go.com/Health/Wellness/direct-consumer-genetic-tests-research-bonanza/story?id=11016734#.UHuYYWl25kA
+2009invariants:
+  category:
+  - math
+  - book
+  authors: N. Eriksson
+  title: Using invariants for phylogenetic tree construction
+  citation: In <i>Emerging Applications of Algebraic Geometry</i>, pages 89--108.
+    Springer, New York, 2009.
+  abstract: Phylogenetic invariants are certain polynomials in the joint probability
+    distribution of a Markov model on a phylogenetic tree.  Such polynomials are of
+    theoretical interest in the field of algebraic statistics and they are also of
+    practical interest&mdash;they can be used to construct phylogenetic trees.  This
+    paper is a self-contained introduction to the algebraic, statistical, and computational
+    challenges involved in the practical use of phylogenetic invariants.  We survey
+    the relevant literature and provide some partial answers and many open problems.
+  thumbnail: using.png
+  summary: A survey of how to use algebraic techniques to solve practical problems
+    in phylogenetics.
+  links:
+  - name: arXiv
+    url: http://arxiv.org/abs/0709.2890
+  - name: pdf
+    url: pdf/using.pdf
+2008pyrosequencing:
+  category:
+  - genetics
+  - sequencing
+  - flc
+  authors: N. Eriksson, L. Pachter, Y. Mitsuya, S. Y. Rhee, C. Wang, B. Gharizadeh,
+    M. Ronaghi, R. W. Shafer, and N. Beerenwinkel
+  title: Viral population estimation using pyrosequencing
+  citation: <i>PLoS Comput. Biol.</i>, 4:e1000074, Apr 2008.
+  abstract: The genetic diversity of viral populations is important for biomedical
+    problems such as disease progression, vaccine design, and drug resistance, yet
+    it is not generally well-understood.  In this paper, we use pyrosequencing, a
+    novel DNA sequencing technique, to reconstruct viral populations.  Pyrosequencing
+    produces a large number of short, error-prone DNA reads.  We develop mathematical
+    and statistical tools to correct errors and assemble the reads into the different
+    viral strains present in the population.  We apply these methods to HIV-1 populations
+    from drug resistant patients and show that pyrosequencing produces results quite
+    close to accepted techniques at a low cost and potentially higher resolution.
+  pubmed: '18437230'
+  summary: We show how to reconstruct an entire viral population from next-generation
+    sequencing data.
+  thumbnail: viral.png
+  links:
+  - name: PLoS
+    url: http://www.ploscompbiol.org/doi/pcbi.1000074
+2008hiv:
+  category:
+  - compbio
+  authors: R. J. Gifford, S. Y. Rhee, N. Eriksson, T. F. Liu, M. Kiuchi, A. K. Das,
+    and R. W. Shafer
+  title: Sequence editing by Apolipoprotein B RNA-editing catalytic component and
+    epidemiological surveillance of transmitted HIV-1 drug resistance
+  citation: <i>AIDS</i>, 22:717--725, Mar 2008.
+  abstract: Promiscuous guanine (G) to adenine (A) substitutions catalysed by apolipoprotein
+    B RNA-editing catalytic component (APOBEC) enzymes are observed in a proportion
+    of HIV-1 sequences in vivo and can introduce artifacts into some genetic analyses.
+    The potential impact of undetected lethal editing on genotypic estimation of transmitted
+    drug resistance was assessed.  Classifiers of lethal, APOBEC-mediated editing
+    were developed by analysis of lentiviral pol gene sequence variation and evaluated
+    using control sets of HIV-1 sequences. The potential impact of sequence editing
+    on genotypic estimation of drug resistance was assessed in sets of sequences obtained
+    from 77 studies of 25 or more therapy-naive individuals, using mixture modelling
+    approaches to determine the maximum likelihood classification of sequences as
+    lethally edited as opposed to viable.  Analysis of 6437 protease and reverse transcriptase
+    sequences from therapy-naive individuals using a novel classifier of lethal, APOBEC3G-mediated
+    sequence editing, the polypeptide-like 3G (APOBEC3G)-mediated defectives (A3GD)
+    index', detected lethal editing in association with spurious 'transmitted drug
+    resistance' in nearly 3% of proviral sequences obtained from whole blood and 0.2%
+    of samples obtained from plasma.  Screening for lethally edited sequences in datasets
+    containing a proportion of proviral DNA, such as those likely to be obtained for
+    epidemiological surveillance of transmitted drug resistance in the developing
+    world, can eliminate rare but potentially significant errors in genotypic estimation
+    of transmitted drug resistance.
+  thumbnail: apobec.png
+  summary: We examine APOBEC-mediated editing of HIV-1 and show that this editing
+    is meaningful for the study of drug resistance.
+  pubmed: '18356601'
+  links: []
+2007cbn:
+  category:
+  - math
+  authors: N. Beerenwinkel, N. Eriksson, and B. Sturmfels
+  title: Conjuctive Bayesian networks
+  citation: <i>Bernoulli</i>, 13(4):893--909, 2007.
+  abstract: Conjunctive Bayesian networks (CBNs) are graphical models that describe
+    the accumulation of events which are constrained in the order of their occurrence.
+    A CBN is given by a partial order on a (finite) set of events. CBNs generalize
+    the oncogenetic tree models of Desper et al.  (1999) by allowing the occurrence
+    of an event to depend on more than one predecessor event. The present paper studies
+    the statistical and algebraic properties of CBNs. We determine the maximum likelihood
+    parameters and present a combinatorial solution to the model selection problem.
+    Our method performs well on two datasets where the events are HIV mutations associated
+    with drug resistance. Concluding with a study of the algebraic properties of CBNs,
+    we show that CBNs are toric varieties after a coordinate transformation and that
+    their ideals possess a quadratic Gr&ouml;bner basis.
+  summary: A new statistical model for describing the accumulation of events that
+    are constrained in the order of their occurrence, applied to HIV drug resistance.
+  thumbnail: cbn.png
+  links:
+  - name: DOI
+    url: http://dx.doi.org/10.3150/07-BEJ6133
+  - name: pdf
+    url: pdf/CBN.pdf
+2007acp:
+  category:
+  - math
+  authors: N. Eriksson and J. C. Lagarias
+  title: 'Apollonian Circle Packings: Number Theory II. Spherical and Hyperbolic Packings'
+  citation: <i>Ramanujan Journal</i>, 14(3):437--469, 2007.
+  abstract: Apollonian circle packings arise by repeatedly filling the interstices
+    between mutually tangent circles with further tangent circles.  In Euclidean space
+    it is possible for every circle in such a packing to have integer radius of curvature,
+    and we call such a packing an <i>integral Apollonian circle packing.</i> Integral
+    circle packings also exist in spherical and hyperbolic space, provided a suitable
+    definition of curvature is used and as in the Euclidean case, there are an infinite
+    number of different integral packings. This paper studies number-theoretic properties
+    of spherical and hyperbolic packings.  This amounts to studying  the orbits of
+    a particular subgroup of the group of integral automorphs of the indefinite quaternary
+    quadratic form $Q_D(w, x, y, z)= 2(w^2+x^2 +y^2 + z^2) - (w+x+y+z)^2$.  This subgroup,
+    called the Apollonian group, acts on integer solutions $Q_D(w, x, y, z)=k$.  This
+    paper  gives a reduction theory for orbits of A acting on integer solutions to
+    $Q_D(w, x, y, z)=k$ valid for all integer $k$. It also classifies orbits for all
+    $k = 0 mod 4$ in terms of an extra parameter $n$ and an auxiliary class group
+    (depending on $n$ and $k$), and studies congruence conditions on integers in a
+    given orbit.
+  thumbnail: acp.png
+  summary: A study of Apollonian circule packings in spherical and hyperbolic geometries
+  links:
+  - name: DOI
+    url: http://dx.doi.org/10.1007/s11139-007-9052-6
+  - name: pdf
+    url: pdf/acp.pdf
+2007metric:
+  category:
+  - math
+  - book
+  authors: N. Eriksson and Y. Yao
+  title: Metric learning for phylogenetic invariants
+  citation: <i>ArXiv preprint</i>, 2007.
+  abstract: We introduce new methods for phylogenetic tree quartet construction by
+    using machine learning to optimize the power of phylogenetic invariants. Phylogenetic
+    invariants are polynomials in the joint probabilities which vanish under a model
+    of evolution on a phylogenetic tree. We give algorithms for selecting a good set
+    of invariants and for learning a metric on this set of invariants which optimally
+    distinguishes the different models. Our learning algorithms involve linear and
+    semidefinite programming on data simulated over a wide range of parameters. We
+    provide extensive tests of the learned metrics on simulated data from phylogenetic
+    trees with four leaves under the Jukes-Cantor and Kimura 3-parameter models of
+    DNA evolution. Our method greatly improves on other uses of invariants and is
+    competitive with or better than neighbor-joining. In particular, we obtain metrics
+    trained on trees with short internal branches which perform much better than neighbor
+    joining on this region of parameter space.
+  thumbnail: metric.png
+  summary: A novel use of machine learning to optimize the use of algebraic techniques
+    in phylogenetics.
+  links:
+  - name: arXiv
+    url: http://arxiv.org/abs/q-bio.PE/0703034
+2006markov:
+  category:
+  - math
+  authors: P. Diaconis and N. Eriksson
+  title: Markov bases for noncommutative Fourier analysis of ranked data
+  citation: <i>J. Symbolic Comput.</i>, 41(2):182--195, 2006.
+  abstract: To calibrate Fourier analysis of S_5 ranking data by Markov chain Monte
+    Carlo techniques, a set of moves (Markov basis) is needed.  We calculate this
+    basis, and use it to provide a new statistical analysis of two data sets.  The
+    calculation involves a large Gr&ouml;bner basis computation (45825 generators),
+    but reduction to a minimal basis and reduction by natural symmetries leads to
+    a remarkably small basis (14 elements).  Although the Gr&ouml;bner basis calculation
+    is infeasible for S_6, we exploit the symmetry of the problem to calculate a Markov
+    basis for S_6 with  7,113,390 elements in 58 symmetry classes.  We improve a bound
+    on the degree of the generators for a Markov basis for S_n and conjecture that
+    this ideal is generated in degree 3.
+  thumbnail: markov.png
+  summary: A combination of statistics, commutative algebra, and the representation
+    theory of the symmetric group.
+  links:
+  - name: DOI
+    url: http://dx.doi.org/10.1016/j.jsc.2005.04.009
+  press: []
+2006mle:
+  category:
+  - math
+  authors: N. Eriksson, S. E. Fienberg, A. Rinaldo, and S. Sullivant
+  title: Polyhedral conditions for the nonexistence of the MLE for hierarchical log-linear
+    models
+  citation: <i>J. Symbolic Comput.</i>, 41(2):222--233, 2006.
+  abstract: We provide a polyhedral description of the conditions for the existence
+    of the maximum likelihood estimate (MLE) for a hierarchical log-linear model.  The
+    MLE exists if and only if the observed margins lie in the relative interior of
+    the marginal cone.  Using this description, we give an algorithm for determining
+    if the MLE exists.  If the tree width is bounded, the algorithm runs in polynomial
+    time.  We also perform a computational study of the case of three random variables
+    under the no three-factor effect model.
+  summary: We give geometric conditions for the existence of the maximum likelihood
+    estimate (MLE) for a hierarchical log-linear model.
+  links:
+  - name: DOI
+    url: http://dx.doi.org/10.1016/j.jsc.2005.04.003
+  thumbnail: mle.png
+  press: []
+2006evolution:
+  category:
+  - math
+  authors: N. Beerenwinkel, N. Eriksson, and B. Sturmfels
+  title: Evolution on distributive lattices
+  citation: <i>J Theor Biol</i>, 242(2):409--420, Sep 2006.
+  abstract: We consider the directed evolution of a population after an intervention
+    that has significantly altered the underlying fitness landscape.  We model the
+    space of genotypes as a distributive lattice; the fitness landscape is a real-valued
+    function on that lattice. The risk of escape from intervention, i.e., the probability
+    that the population develops an escape mutant before extinction, is encoded in
+    the risk polynomial. Tools from algebraic combinatorics are applied to compute
+    the risk polynomial in terms of the fitness landscape. In an application to the
+    development of drug resistance in HIV, we study the risk of viral escape from
+    treatment with the protease inhibitors ritonavir and indinavir.
+  summary: We develop a new mathematical model in order to study the development of
+    HIV drug resistance.
+  pubmed: '16650439'
+  thumbnail: evoldl.png
+  links:
+  - name: pdf
+    url: pdf/evol.pdf
+2006thesis:
+  category:
+  - math
+  - book
+  authors: N. Eriksson
+  title: Algebraic combinatorics for computational biology
+  citation: PhD thesis, University of California, Berkeley, 2006.
+  abstract: ''
+  summary: My PhD thesis.
+  thumbnail: thesis.png
+  links:
+  - name: pdf
+    url: pdf/nke-diss.pdf
+2005phyloAG:
+  category:
+  - math
+  - book
+  authors: N. Eriksson,  K. Ranestad, B. Sturmfels, and S. Sullivant
+  title: Phylogenetic algebraic geometry
+  citation: In C. Ciliberto, A. Geramita, B. Harbourne, R-M. Roig, and K. Ranestad,
+    editors, <i>Projective varieties with unexpected properties</i>, pages 237--255.
+    Walter de Gruyter GmbH & Co. KG, Berlin, 2005.
+  abstract: Phylogenetic algebraic geometry is concerned with certain complex projective
+    algebraic varieties derived from finite trees.  Real positive points on these
+    varieties represent probabilistic models of evolution. For small trees, we recover
+    classical geometric objects, such as toric and determinantal varieties and their
+    secant varieties, but larger trees lead to new and largely unexplored territory.
+    This paper gives a self-contained introduction to this subject and offers numerous
+    open problems for algebraic geometers.
+  summary: An introduction to phylogenetics for algebraic geometers.
+  links:
+  - name: pdf
+    url: pdf/phylogeneticAG.pdf
+  thumbnail: phyloag.png
+  press: []
+2005ultra:
+  category:
+  - math
+  - book
+  authors: M. Drton, N. Eriksson, and G. Leung
+  title: Ultra-Conserved Elements in Vertebrate and Fly Genomes
+  citation: In L. Pachter and B. Sturmfels, editors, <i>Algebraic Statistics for Computational
+    Biology</i>, chapter 22, pages 387--402. Cambridge University Press, Cambridge,
+    UK, 2005.
+  thumbnail: ultra.png
+  summary: An analysis of some of the most conserved DNA sequences
+  links:
+  - name: pdf
+    url: pdf/ultras.pdf
+  press: []
+2005svd:
+  category:
+  - math
+  - book
+  authors: N. Eriksson
+  title: Tree Construction using Singular Value Decompsition
+  citation: In L. Pachter and B. Sturmfels, editors, <i>Algebraic Statistics for Computational
+    Biology</i>, chapter 19, pages 347--358. Cambridge University Press, Cambridge,
+    UK, 2005.
+  thumbnail: treesvd.png
+  summary: A novel technique for constructing phylogenies using linear algebra.
+  links:
+  - name: pdf
+    url: pdf/treeSVD.pdf
+  press: []
+2004toricideals:
+  category:
+  - math
+  authors: N. Eriksson
+  title: Toric ideals of homogeneous phylogenetic models
+  citation: In the proceedings of <i>ISSAC 2004</i>, pages 149--154. ACM, New York,
+    2004.
+  abstract: We consider the model of phylogenetic trees in which every node of the
+    tree is an observed, binary random variable and the transition probabilities are
+    given by the same matrix on each edge of the tree.  The ideal of invariants of
+    this model is a toric ideal.  We are able to compute the Gr&ouml;bner basis and
+    minimal generating set for this ideal for trees with up to 11 nodes.  These are
+    the first non-trivial Gr&ouml;bner bases calculations in 2048 indeterminates.  We
+    conjecture that there is a quadratic Gr&ouml;bner basis for binary trees, but
+    that generators of degree $n$ are required for some trees with $n$ nodes.  The
+    polytopes associated with these toric ideals display interesting finiteness properties.  We
+    describe the polytope for an infinite family of binary trees and conjecture (based
+    on extensive computations) that there is a universal bound on the number of vertices
+    of the polytope of a binary tree.
+  summary: An application of some algebraic techniques to a simple problem in phylogenetics.
+  links:
+  - name: pdf
+    url: pdf/phylogenetic-paper.pdf
+  - name: DOI
+    url: http://dl.acm.org/citation.cfm?doid=1005285.1005308
+  thumbnail: toric2.png
+  press: []
+1999partitions:
+  category:
+  - math
+  authors: N. Eriksson
+  title: $q$-series, elliptic curves, and odd values of the partition function
+  citation: <i>International Journal of Mathematics and Mathematical Sciences</i>,
+    22(1):55--66, 1999
+  abstract: 'Let p(n) be the number of partitions of an integer n.  Euler proved the
+    following recurrence for p(n): p(n)=\sum _{k=1}^{\infty} (-1)^{k+1} (p(n-\omega
+    (k))+p(n-\omega (-k))), where \omega (k)=\frac{3k^2+k}{2}. In view of Euler''s
+    result one sees that it is fairly easy to compute p(n) very quickly.  However,
+    many questions remain open even regarding the parity of p(n).  In this paper we
+    use various facts about elliptic curves and q-series to construct, for every i>0,
+    finite sets M_i for which p(n) is odd for an odd number of n in M_i.'
+  summary: A number theory paper that uses a bit of technical machinery to find odd
+    values of the partition function. A high-school project that won third place in
+    the Westinghouse Science Talent Search.
+  thumbnail: partitions.png
+  links:
+  - name: pdf
+    url: pdf/q-series_elliptic_curves_partition_function.pdf
+  press:
+  - name: Mathland
+    url: http://www.maa.org/mathland/mathland_3_24.html

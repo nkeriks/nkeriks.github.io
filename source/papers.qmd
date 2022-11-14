@@ -1,0 +1,51 @@
+---
+title: "Papers"
+---
+
+```{r}
+#| echo: FALSE
+### #| column: page
+library(yaml)
+library(htmltools)
+library(purrr)
+
+
+papers <- read_yaml('_paper_data.yaml')
+
+show_paper <- function(pd, num) {
+
+  links <- map(pd$links, function(zz) {a(zz$name, href=zz$url)})
+  if (length(pd$press) > 0) {
+    press <- map(pd$press, function(zz) {a(zz$name, href=zz$url)})
+    press_obj <- p(strong("Press: "), press, class='paper')
+  } else {
+    press_obj <- NULL
+  }
+  div(
+    div(
+      div(
+        h4(num),
+        img(src=paste0("img/", pd$thumbnail), class='thumbnail'),
+        class="g-col-2"
+      ),
+      div(class="g-col-1"),
+
+      div(
+        p(),
+        p(strong(pd$title), class='paper'),
+        p(pd$authors, class='authors paper'),
+        p(HTML(pd$citation), class='paper'),
+        p(strong("Summary: "), pd$summary, class='paper'),
+        p(strong("Links: "), links, class='paper'),
+        press_obj,
+        class="g-col-9"
+      ),
+
+      class='grid'
+    ),
+    hr()
+  )
+}
+div(map2(papers, length(papers):1, show_paper), class='paper-list')
+
+```
