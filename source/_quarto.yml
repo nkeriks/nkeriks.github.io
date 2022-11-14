@@ -15,6 +15,8 @@ website:
       - href: /pdf/eriksson-cv.pdf
         text: CV
     right:
+      - text: nick.eriksson@gmail.com
+        href: mailto:nick.eriksson@gmail.com
       - icon: google
         text: Google Scholar
         href: http://scholar.google.com/citations?user=5kf1vNwAAAAJ
