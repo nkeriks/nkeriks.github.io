@@ -1,3 +1,45 @@
+2024.04.mussel:
+  category:
+  - genetics
+  title: "MUSSEL: enhanced Bayesian polygenic risk prediction leveraging information across multiple ancestry groups"
+  authors: 'Jin Jin, Jianan Zhan, Jingning Zhang, Ruzhang Zhao, Jared
+    O’Connell, Yunxuan Jiang, Stella Aslibekyan, Adam Auton, Elizabeth
+    Babalola, Robert K Bell, Jessica Bielenberg, Katarzyna Bryc, Emily Bullis,
+    Daniella Coker, Gabriel Cuellar Partida, Devika Dhamija, Sayantan Das,
+    Sarah L Elson, Nicholas Eriksson, Teresa Filshtein, Alison Fitch, Kipper
+    Fletez-Brant, Pierre Fontanillas, Will Freyman, Julie M Granka, Karl
+    Heilbron, Alejandro Hernandez, Barry Hicks, David A Hinds, Ethan M Jewett,
+    Katelyn Kukar, Alan Kwong, Keng-Han Lin, Bianca A Llamas, Maya Lowe, Jey C
+    McCreight, Matthew H McIntyre, Steven J Micheletti, Meghan E Moreno,
+    Priyanka Nandakumar, Dominique T Nguyen, Elizabeth S Noblin, Aaron A
+    Petrakovitz, G David Poznik, Alexandra Reynoso, Morgan Schumacher, Anjali J
+    Shastri, Janie F Shelton, Jingchunzi Shi, Suyash Shringarpure, Qiaojuan
+    Jane Su, Susana A Tat, Christophe Toukam Tchakouté, Vinh Tran, Joyce Y
+    Tung, Xin Wang, Wei Wang, Catherine H Weldon, Peter Wilton, Corinna D Wong,
+    Steven Buyske, Christopher Gignoux, Christopher Haiman, Eimear E Kenny,
+    Charles Kooperberg, Kari North, Bertram L Koelsch, Genevieve Wojcik, Haoyu
+    Zhang, Nilanjan Chatterjee'
+  abstract: ''
+  citation: <i>Cell Genomics</i> (2024)
+  thumbnail: mussel.png
+  summary: Cross ancestry polygenic risk prediction
+  links:
+  - name: Cell Genomics
+    url: https://www.cell.com/cell-genomics/fulltext/S2666-979X(24)00095-8
+2023.10.24.incident:
+  category:
+  - genetics
+  title: Prospective analysis of incident disease among individuals of diverse ancestries using genetic and conventional risk factors
+  authors: "Wei Wang, Nicholas Eriksson, Matthew McIntyre, Rafaela Bagur
+    Quetglas, Bertram L Koelsch, David A Hinds, Stella Aslibekyan, Adam Auton,
+    Michael V Holmes, Suyash S Shringarpure"
+  abstract: ''
+  citation: <i>medRxiv</i> (2023)
+  thumbnail: incident.png
+  summary: Genetics and incident disease risk
+  links:
+  - name: medRxiv
+    url: https://www.medrxiv.org/node/718872.full
 2020.09.handedness:
   category:
   - genetics
