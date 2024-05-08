@@ -315,6 +315,8 @@
   summary: Similar polygenic ADHD burden across sex.
   thumbnail: adhd_sex.png
   links:
+  - name: PubMed Central 
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5992329/
   - name: bioRxiv
     url: http://www.biorxiv.org/content/early/2017/06/23/154088
 2017.06.adhd:
@@ -349,10 +351,12 @@
     yielded a total of 16 genome-wide significant loci. The results support the hypothesis
     that clinical diagnosis of ADHD is an extreme expression of one or more continuous
     heritable traits.
-  citation: <i>bioRxiv</i> (2017)
+  citation: <i>Nature Genetics</i> (2019)
   summary: 12 loci for ADHD.
   thumbnail: adhd.png
   links:
+  - name: Nature Genetics
+    url: https://www.nature.com/articles/s41588-018-0269-7
   - name: bioRxiv
     url: http://www.biorxiv.org/content/early/2017/06/03/145581
 2017.05.psoriasis:
@@ -520,7 +524,9 @@
   thumbnail: migraine.png
   links:
   - name: Nature Genetics
-    url: http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3598.html
+    url: https://www.nature.com/articles/ng.3598
+  - name: PubMed Central
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5331903/
 2016.02.morning:
   category:
   - genetics
@@ -585,7 +591,9 @@
   thumbnail: virtual_pd.png
   links:
   - name: Digital Health
-    url: http://dhj.sagepub.com/content/1/2055207615592998
+    url: https://journals.sagepub.com/doi/full/10.1177/2055207615592998
+  - name: PubMed Central
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5999055/
 2015.03.rosacea:
   category:
   - genetics
@@ -615,8 +623,10 @@
   summary: HLA associations with rosacea
   thumbnail: rosacea.png
   links:
+  - name: PubMed Central
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4434179/
   - name: JID
-    url: http://www.nature.com/jid/journal/vaop/ncurrent/full/jid201553a.html
+    url: https://www.jidonline.org/article/S0022-202X(15)37273-0/fulltext
 2015.02.crossover:
   category:
   - genetics
@@ -773,7 +783,9 @@
   thumbnail: mega-meta.png
   links:
   - name: Nature Genetics
-    url: http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3043.html
+    url: https://www.nature.com/articles/ng.3043
+  - name: PubMed Central
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4146673/
 2014.05.IBD:
   category:
   - genetics
@@ -837,8 +849,8 @@
     G. W. Montgomery, D. I. Boomsma, N. G. Martin, and S. E. Medland
   citation: <i>Journal of Data Mining in Genomics & Proteomics</i>, 2013, 4:4
   links:
-  - name: pdf
-    url: http://www.tweelingenregister.org/nederlands/verslaggeving/NTR-publicaties_2013/Lubke_JDMGP_2013.pdf
+  - name: PMC
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3882018/
   thumbnail: gradiant.png
   summary: Gradiant boosting applied to GWAS data
 2013.06.allergy:
@@ -958,7 +970,7 @@
   thumbnail: myopia.png
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003299
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1003299
   - name: arXiv
     url: http://arxiv.org/abs/1209.2089
 2013.02.brca:
@@ -966,7 +978,7 @@
   - genetics
   authors: U. Francke, C. Dijamco, A. K. Kiefer, N. Eriksson, B. R. Moiseff, J. Y.
     Tung, and J. L. Mountain
-  title: 'Dealing with the unexpected: Consumer responses to direct-access <i>BRCA</i>
+  title: 'Dealing with the unexpected: Consumer responses to direct-access *BRCA*
     mutation testing'
   pubmed: '23638402'
   citation: <i>PeerJ</i>, 1:e8.
@@ -1134,7 +1146,7 @@
   thumbnail: famhist.png
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002973
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002973
   blogs:
   - name: The turning of the key
     url: http://nickeriksson.blogspot.com/2012/08/on-height-prediction.html
@@ -1229,7 +1241,7 @@
     with Parkinson's disease
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002746
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002746
   blogs:
   - name: The Spitoon
     url: http://spittoon.23andme.com/23andme-research/23andmes-latest-publication-shines-light-on-male-pattern-baldness-and-unexpected-associations-with-disease/
@@ -1380,7 +1392,7 @@
   thumbnail: pdgene.png
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002548
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002548
   blogs:
   - name: The Spitoon
     url: http://spittoon.23andme.com/news/announcements/pdgene-enters-the-scene-for-parkinsons-research/
@@ -1449,7 +1461,7 @@
   thumbnail: pd.png
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1002141
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002141
   press:
   - name: Wired
     url: http://www.wired.com/magazine/2010/06/ff_sergeys_search/
@@ -1542,7 +1554,7 @@
     freckling, and asparagus metabolite detection.
   links:
   - name: PLoS
-    url: http://www.plosgenetics.org/article/info:doi/10.1371/journal.pgen.1000993
+    url: https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1000993
   press:
   - name: F1000
     url: http://f1000.com/4871956
@@ -1630,7 +1642,12 @@
   summary: We examine APOBEC-mediated editing of HIV-1 and show that this editing
     is meaningful for the study of drug resistance.
   pubmed: '18356601'
-  links: []
+  links:
+  - name: PubMed Central
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2946849/
+  - name: AIDS
+    url: https://journals.lww.com/aidsonline/abstract/2008/03300/sequence_editing_by_apolipoprotein_b_rna_editing.6.aspx
+
 2007cbn:
   category:
   - math
