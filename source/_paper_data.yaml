@@ -1,3 +1,33 @@
+2024.05.alcohol:
+  category:
+  - genetics
+  title: "A phenome-wide association and Mendelian randomisation study of alcohol use variants in a diverse cohort comprising over 3 million individuals"
+  authors: "Mariela V Jennings, José Jaime Martínez-Magaña, Natasia S
+    Courchesne-Krak, Renata B Cupertino, Laura Vilar-Ribó, Sevim B Bianchi,
+    Alexander S Hatoum, Elizabeth G Atkinson, Paola Giusti-Rodriguez, Janitza L
+    Montalvo-Ortiz, Joel Gelernter, María Soler Artigas, Stella Aslibekyan,
+    Adam Auton, Elizabeth Babalola, Robert K Bell, Jessica Bielenberg,
+    Katarzyna Bryc, Emily Bullis, Daniella Coker, Gabriel Cuellar Partida,
+    Devika Dhamija, Sayantan Das, Sarah L Elson, Nicholas Eriksson, Teresa
+    Filshtein, Alison Fitch, Kipper Fletez-Brant, Pierre Fontanillas, Will
+    Freyman, Julie M Granka, Karl Heilbron, Alejandro Hernandez, Barry Hicks,
+    David A Hinds, Ethan M Jewett, Yunxuan Jiang, Katelyn Kukar, Alan Kwong,
+    Keng-Han Lin, Bianca A Llamas, Maya Lowe, Jey C McCreight, Matthew H
+    McIntyre, Steven J Micheletti, Meghan E Moreno, Priyanka Nandakumar,
+    Dominique T Nguyen, Elizabeth S Noblin, Jared O'Connell, Aaron A
+    Petrakovitz, G David Poznik, Alexandra Reynoso, Morgan Schumacher, Anjali J
+    Shastri, Janie F Shelton, Jingchunzi Shi, Suyash Shringarpure, Qiaojuan
+    Jane Su, Susana A Tat, Christophe Toukam Tchakouté, Vinh Tran, Joyce Y
+    Tung, Xin Wang, Wei Wang, Catherine H Weldon, Peter Wilton, Corinna D Wong,
+    Howard J Edenberg, Abraham A Palmer, Sandra Sanchez-Roige"
+  abstract: ""
+  citation: <i>eBioMedicine</i> (2024)
+  summary: Mendelian randomization identifies many causal effects of alcohol consumption
+  thumbnail: mr_alcohol.png
+  links:
+  - name: eBioMedicine
+    url: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00121-X/fulltext
+
 2024.04.mussel:
   category:
   - genetics
