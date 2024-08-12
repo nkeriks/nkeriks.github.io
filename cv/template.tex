@@ -1,0 +1,387 @@
+%		  12 December 2011
+%
+% To anyone downloading this file:
+%
+% If you got this file from someone other than Ezra Miller, then there
+% might be a better version available directly from Ezra's homepage;
+% just type Ezra Miller into Google and you should be able to find it.
+%
+% You may use this file freely as a template for your own CV, or for
+% any other purpose, but please leave these lines and those above them
+% in the file.
+%
+% You might have to fiddle with the number of millimeters in the
+% \voffset commands to get your CV to print centered vertically on the
+% page.  You should also check page breaks and vertical spacing around
+% \marginlabel commands.
+\documentclass[11pt]{article}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{revnum}
+
+\voffset=-10mm %to print: dvips *.dvi; ps2pdf *.ps
+\oddsidemargin=-20pt
+\headheight=18pt     \topmargin=0pt
+%\textheight=658pt   \textwidth=495pt %return to this if possible
+%\textheight=658pt   \textwidth=499.5pt
+\textheight=659pt   \textwidth=499.5pt
+\parskip=.3pt plus 1pt
+
+\newcommand{\excise}[1]{}
+\newcommand{\comment}[1]{$\star${\sf\textbf{#1}}$\star$}
+
+\def\myname{\Large \bfseries N\normalsize ICHOLAS \Large E\normalsize RIKSSON}
+\def\at{\raisebox{-1.5pt}{\includegraphics{at-11pt}}}
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\cfoot{}     % no footers (in pagestyle fancy)
+\lhead{{\noindent\myname}}   % running left heading
+\rhead{{\Large\bfseries C\normalsize URRICULUM \Large V\normalsize ITAE
+    \quad\Large\thepage}}% running right heading
+
+\newcommand{\marginlabel}[1]{\bigskip\noindent{\textsf{\textbf{#1}}}\nopagebreak}
+    % bold sans-serif label for margin labels.
+
+% For lists with `year1--year2': jobs, honors, activities, and teaching
+\newenvironment{jobs}
+% 	{\vspace{-2ex}\leftmargini=24.1mm% to get dates even with margin
+	{\vspace{-2ex}\leftmargini=30mm%
+	 \begin{list}%
+		{}
+		{\setlength\labelwidth{22mm}\itemsep=-1.5mm}}
+	{\end{list}\vspace{-2ex}}
+
+\def\dates#1{\item[#1\hfill]}
+
+% For papers, listed reverse-chronologically but numbered chronologically;
+% \paper declares the beginning of each entry except for those with
+% \paperyear which is for the first paper in each year
+\newenvironment{papers}[1][1]
+	{\vspace{-2ex}\leftmargini=16.1mm%
+% 	 \begin{enumerate}\itemsep=-.5mm}
+% 	{\end{enumerate}\vspace{-2ex}}
+	 \begin{revnumerate}[{#1}]\itemsep=-.5mm}
+	{\end{revnumerate}\vspace{-2ex}}
+\def\paper{\item}
+%def\paperyear#1{\item[\stepcounter{enumi}%
+\def\paperyear#1{\item[\addtocounter{enumi}{-1}%
+		 {\makebox[0mm][r]{\makebox[14mm]{#1\hfill\arabic{enumi}.}}}]}
+\newcounter{separated}%to save \enumi between types of papers; see \setcounter below
+
+% For projects in progress
+\newenvironment{progress}
+	{\vspace{-2ex}\leftmargini=16.1mm%
+	 \begin{itemize}\itemsep=-.5mm}
+	{\end{itemize}\vspace{-2ex}}
+
+% For the list of seminars; \talkyear is for the first line of each year
+\newenvironment{talks}
+	{\vspace{-2ex}\leftmargini=20mm
+	 \begin{list}
+		{}
+		{\setlength\labelwidth{8.5mm}}\itemsep=-1.5mm}
+	{\end{list}\vspace{-2ex}}
+
+\def\talk#1{\item[#1\hfill]}
+\def\talkyear#1#2{\item[{\makebox[0mm][r]{\makebox[9.5mm][l]{#1}}}{#2}\hfill]}
+
+% For the list of nonscientific academic awards
+\newenvironment{awards}
+% 	{\vspace{-2ex}\leftmargini=24.1mm% to get dates even with margin
+	{\vspace{-2ex}\leftmargini=18mm%
+	 \begin{list}%
+		{}
+		{\setlength\labelwidth{10mm}\itemsep=-1.5mm}}
+	{\end{list}\vspace{-2ex}}
+
+\def\award#1{\item[#1\hfill]}
+
+\def\thick{}%\textbf}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\thispagestyle{empty}
+
+\mbox{}
+\vspace{-9ex}
+
+\centerline{\Large \bf Curriculum Vitae}
+\medskip
+\centerline{\myname}
+
+\begin{tabbing}
+\mbox{}\quad\= Google Scholar: \ \=  Mountain View, CA\ \ 94041 \qquad\quad \= \kill
+\> Email Address:  \> \url{nick.eriksson@gmail.com}\\
+\> Homepage:       \>\url{http://www.stat.uchicago.edu/~eriksson}\\
+\> Google Scholar: \> \url{https://scholar.google.com/citations?user=5kf1vNwAAAAJ}\\
+\> Last updated:   \> \VAR{updated}
+
+\end{tabbing}
+
+\vspace{-3.5mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Education/Employment}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{jobs}
+\dates{2018$\;$--$\;$} Senior Scientist, Health R\&D,
+    \textbf{23andMe, Inc.}, Mountain View, CA
+
+\dates{2016$\;$--$\;$2018} Principal Data Scientist,
+    \textbf{Calico Labs}, South San Francisco, CA
+
+\dates{2014$\;$--$\;$2016} Data Scientist,
+    \textbf{Coursera}, Mountain View, CA
+
+\dates{2009$\;$--$\;$2014} Principal Scientist, Statistical Genetics,
+    \textbf{23andMe, Inc.}, Mountain View, CA
+
+\dates{2008$\;$--$\;$2009} Scientist, Statistical Genetics,
+    \textbf{23andMe, Inc.}, Mountain View, CA
+
+\dates{2007$\;$--$\;$2008} Visiting Assistant Professor,
+    \textbf{Department of Statistics, \\ University of Chicago}, Chicago, IL
+
+\dates{2006$\;$--$\;$2007} NSF Postdoctoral Research Fellow,
+    \textbf{Department of Statistics, \\ Stanford University}, Stanford, CA
+
+\dates{2006$\;$--$\;$2007} Postdoctoral Fellow,
+    \textbf{Mathematical Sciences Research Institute}, Berkeley, CA
+
+\dates{2006\quad Ph.D.} Mathematics,
+    \textbf{University of California, Berkeley} (advisor: Bernd Sturmfels)
+
+\dates{2006\quad \quad} Designated Emphasis in Computational and Genomic Biology, \\
+    \textbf{University of California, Berkeley}
+
+\dates{2001\quad S.B.} Mathematics,
+    \textbf{Massachusetts Institute of Technology}, Cambridge, MA
+
+\end{jobs}
+
+\vspace{-1mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Scientific/Academic honors and grants}%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{jobs}
+\dates{2013$\;$--$\;$2014} Principal Investigator, NIH Grants 1R43HG006981-01 and 2R44HG006981-02,
+    Development of a web-based database and research engine for genetic discovery
+
+\dates{2012$\;$--$\;$2013} Principal Investigator, MJFF Research Grant,
+    Using external research experts to mine the 23andMe Parkinson's database
+
+\dates{2006$\;$--$\;$2008} National Science Foundation Postdoctoral Research
+    Fellowship in the Mathematical Sciences
+
+\dates{2006} Bernard Friedman Prize, University of California, Berkeley,
+    top thesis in applied mathematics
+
+\dates{2001$\;$--$\;$2004} National Defense Science and Engineering Graduate Fellowship
+
+\dates{2001} National Science Foundation Graduate Research Fellowship (declined)
+
+\dates{1997} Third place, Westinghouse Science Talent Search,
+    $q$-series, elliptic curves, and odd values of the partition function.
+
+% for no dates: \dates{------} Sigma Xi \qquad\quad\, (nationwide honor awarded by Brown University chapter)
+\end{jobs}
+
+\vspace{-0.9ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Research interests and skills}%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{progress}
+\item Statistics, machine learning and discrete mathematics
+\item Genomics and human complex trait genetics
+\item Cancer tumor progression and HIV population evolution
+\item Skills: R, python, and SQL (fluent). C++, javascript, scala (basic).
+\end{progress}
+
+
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Publications}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\vspace{-2ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{\sf Peer-reviewed and submitted articles (\VAR{pr} total, \VAR{firstlast} as first/last/unordered author)}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\marginlabel{\sf Peer-reviewed articles (\VAR{firstlast} as first/last/unordered author)}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{papers}[\VAR{pr}]%\setcounter{enumi}{\value{separated}}%restores \enumi
+
+\BLOCK{for year, papernames in years|dictsort|sort(reverse=True)}
+    \BLOCK{for pname in papernames|sort(reverse=True)}
+        %- if loop.first
+            %- if year == 'submitted'
+            \paperyear{\makebox[5.5ex][r]{submitted\,\,}}
+            %- else
+            \paperyear{\VAR{year}}
+            %- endif
+        %- else
+        \paper
+        %- endif
+        \VAR{papers[pname].title|htmltolatex}.
+        %- if "math" in papers[pname].category
+        \VAR{papers[pname].authors}.
+        %- else
+        \VAR{papers[pname].authors|boldnke}.
+        %- endif
+        \VAR{papers[pname].citation|escapetex|htmltolatex}
+
+    \BLOCK{endfor}
+\BLOCK{endfor}
+
+\end{papers}
+
+\vspace{-1ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{\sf Theses and book chapters}%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{papers}[\VAR{npr}]% be sure to set so that the last paper is number 1.
+
+\BLOCK{for year, papernames in notreviewedyears|dictsort|sort(reverse=True)}
+    \BLOCK{for pname in papernames|sort(reverse=True)}
+        %- if loop.first
+        \paperyear{\VAR{year}}
+        %- else
+        \paper
+        %- endif
+        \VAR{papers[pname].title}.
+        %- if "math" in papers[pname].category
+        \VAR{papers[pname].authors}.
+        %- else
+        \VAR{papers[pname].authors|boldnke}.
+        %- endif
+        \VAR{papers[pname].citation|escapetex|htmltolatex}
+    \BLOCK{endfor}
+\BLOCK{endfor}
+\end{papers}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Invited and Conference talks}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{talks}
+
+\talkyear{2015}{Mar.} Coursera Partners Conference, Irvine, CA
+\talkyear{2014}{Feb.} Computation-Intensive Probabilistic and Statistical Methods for Large-Scale Population Genomics, Berkeley, CA
+\talkyear{------}{Feb.} Genomics in Medicine, San Francisco, CA
+\talkyear{2013}{Oct.} American Society of Human Genetics Annual Meeting, Boston, MA
+\talkyear{------}{May} Advanced Topics in Genomics and Cell Biology, UNICAMP, Campinas, Brazil
+\talkyear{------}{Mar.} Broad Institute, Medical and Population Genetics Program Seminar
+\talkyear{------}{Jan.} Columbia University Computer Science Seminar, New York, NY
+\talkyear{------}{Jan.} Monell Chemical Senses Center, Philadelphia, PA
+\talkyear{------}{Jan.} Genomic Medicine Symposium, Berkeley, CA
+\talkyear{2012}{Nov.} American Society of Human Genetics Annual Meeting, San Francisco, CA
+\talkyear{------}{Oct.} EMBL PhD Symposium, Heidelberg, Germany
+\talkyear{------}{Oct.} Colloquium, IST Vienna
+\talkyear{------}{Jun.} IEEE New Frontiers in Computing, Stanford University
+\talkyear{------}{Apr.} NHGRI Seminar, Bethesda, MD
+\talkyear{------}{Mar.} Bay Area Discrete Mathematics Day, UC Berkeley
+\talkyear{------}{Feb.} MJFF LRRK2 and Parkinson's meeting, Tel Aviv
+\talkyear{2011}{Oct.} UC San Diego Institute for Genomic Medicine Annual Symposium
+\talkyear{------}{Sep.} IBM Almaden Research, Seminar
+\talkyear{------}{Sep.} Human Genomic Variation Conference, Berkeley, CA
+\talkyear{2010}{Nov.} Broad Institute, Seminar
+\talkyear{------}{Apr.} Network Biology 2.0 conference, Broad Institute
+\talkyear{------}{Apr.} Friends of the National Library of Science, NIH
+\talkyear{2009}{Dec.} Partnering for Cures Meeting, New York
+\talkyear{------}{Dec.} Cure Parkinsons Trust Genetics Conference, Royal Society of Medicine, London
+\talkyear{------}{Oct.} American Society of Human Genetics Annual Meeting, Honolulu, HI
+\talkyear{------}{Oct.} Society for Industrial and Applied Mathematics Annual Meeting, San Francisco, CA
+\talkyear{------}{Sep.} UC San Francisco Biostatistics Seminar
+\talkyear{------}{May} International Symposium on Bioinformatics Research and Applications (keynote)
+\talkyear{------}{May} Oxford University, Wellcome Trust Centre for Human Genetics
+\talkyear{2008}{Mar.} Brown University, CCMB Seminar
+\talkyear{------}{Feb.} University of Miami, Mathematics Seminar
+\talkyear{------}{Feb.} Virginia Bioinformatics Institute
+\talkyear{------}{Jan.} Columbia University, Statistics seminar
+\talkyear{------}{Jan.} Viral Paradigms: Molecules, Populations, Ecosystems and Infectious Disease; Georgia Tech
+\talkyear{------}{Jan.} Duke University, Mathematics seminar
+\talkyear{------}{Dec.} University of Basel, Switzerland, Bioinformatics seminar
+\talkyear{------}{Oct.} AMS Central Section Annual Meeting, Chicago, IL
+\talkyear{------}{Jul.} Second Argentine School of Mathematics and Biology, La Falda, Argentina
+\talkyear{------}{Jun.} UC Irvine, 2007 WNAR/IMS annual meeting
+\talkyear{2007}{May} Stanford University, Workshop in Biostatistics
+\talkyear{------}{Apr.} UC San Diego, Computational biology seminar
+\talkyear{------}{Apr.} UCLA, Statistics seminar
+\talkyear{------}{Mar.} University of Minnesota, Combinatorics seminar
+\talkyear{------}{Feb.} Bay area biosystematists meeting
+\talkyear{------}{Feb.} Duke University, Mathematics seminar
+\talkyear{------}{Jan.} Stanford University, BioMathematical Methodology Seminar
+\talkyear{2006}{Nov.} University of Chicago / Toyota Technological Institute Seminar
+\talkyear{------}{Nov.} University of Chicago, Statistics seminar
+\talkyear{------}{Sep.} UC Davis, Berkeley-Davis Mathematical Genomics Meeting
+\talkyear{------}{Jun.} MSRI Summer Graduate Workshop: Mathematical aspects of computational biology
+\talkyear{------}{Mar.} University of Miami, Mathematics colloquium
+\talkyear{------}{Mar.} University of Miami, Combinatorics seminar
+\talkyear{------}{Feb.} Massachusetts Institute of Technology, Special applied mathematics seminar
+\talkyear{------}{Jan.} Carnegie Mellon University, Statistics seminar
+\talkyear{------}{Jan.} Joint AMS/MAA Meeting, Special Session on Algebraic Statistics:  Theory and Practice
+\talkyear{2005}{Dec.} First Argentine School of Mathematics and Biology, La Cumbre, Argentina
+\talkyear{2004}{Jul.} University of Barcelona, Seminari D'\`{a}lgebra commutativa, combinat\`{o}ria, i computacional
+\talkyear{------}{Jul.} University of Cantabria, Santander, Spain, International Symposium on Symbolic and Algebraic Computation
+\end{talks}
+
+%\vspace{-1ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Referee and review activities}%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{tabular}[h]{@{}l@{\quad}l@{}}%16
+\begin{tabular}[t]{@{}l@{}}%8
+PLoS Genetics\\
+Genome Medicine \\
+Human Molecular Genetics\\
+Journal of Medical Genetics \\
+Journal of Symbolic Computation\\
+RECOMB\\
+\end{tabular}
+&
+\begin{tabular}[t]{@{}l@{}}%8
+Annals of Combinatorics\\
+Statistical Applications in Genetics and Molecular Biology\\
+Statistica Sinica\\
+BMC Bioinformatics\\
+JAMA\\
+\end{tabular}
+\end{tabular}
+
+\vspace{1ex}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\marginlabel{Teaching}%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{jobs}
+\dates{2008\ \,\,Spring} Statistics 234 (Statistical Models/Methods), University of Chicago
+\dates{2008\ \,\,Winter} Reading course on metagenomics and population genetics, University of Chicago
+\dates{2007\ \,\,Fall} Statistics 234 (Statistical Models/Methods), University of Chicago
+\dates{2007\ \,\,July} Second Argentine School of Mathematics and Biology, short course on Drug resistance in HIV
+\dates{2005\ \,\,Dec} First Argentine School of Mathematics and Biology, short course on Algebraic statistics for computational biology
+\dates{2004\ \,\,Fall} Calculus 1A, UC Berkeley, Graduate Student Instructor
+\end{jobs}
+
+\end{document}
