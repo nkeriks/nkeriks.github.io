@@ -925,7 +925,9 @@
   pubmed: '23750121'
   links:
   - name: PLOS
-    url: http://www.plosmedicine.org/article/info%3Adoi%2F10.1371%2Fjournal.pmed.1001462
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001462
+  - name: PMC
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3672214/
   thumbnail: pdiron.png
   summary: Mendelian randomization study shows that higher iron levels are protective
     for Parkinson's disease
