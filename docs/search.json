@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "About me",
     "section": "",
-    "text": "I studied mathematics at MIT and UC Berkeley. After graduating, I was a NSF postdoc at Stanford University and a Visiting Assistant Professor in Statistics at the University of Chicago, working in statistics, population sequencing, and viral evolution. After that, I spent six years as a principal scientist at 23andMe, where I studied the genetics of a wide range of complex traits, from Parkinson’s disease to cilantro dislike. I became a data scientist at Coursera in 2014, where I worked to make online education more effective, available, and fun. After a stint at  Calico working on longevity, I’ve returned to 23andMe, where I work on building data products to help customers improve their health outcomes."
+    "text": "I studied mathematics at MIT and UC Berkeley. After graduating, I was a NSF postdoc at Stanford University and a Visiting Assistant Professor in Statistics at the University of Chicago, working in statistics, population sequencing, and viral evolution. After that, I spent six years as a principal scientist at 23andMe, where I studied the genetics of a wide range of complex traits, from Parkinson’s disease to cilantro dislike. I became a data scientist at Coursera in 2014, where I worked to make online education more effective, available, and fun. After a stint at  Calico working on longevity, I returned to 23andMe, working on using ML and GWAS to enhance phenotypes and predict longitudinal health outcomes. I’m now at insitro, using genetics and multi-modal phenotyping to better understand human disease."
   },
   {
     "objectID": "index.html#research-interests",
@@ -18,7 +18,7 @@
     "href": "index.html#experience-and-education",
     "title": "About me",
     "section": "Experience and Education",
-    "text": "Experience and Education\n\nSenior Health R&D Scientist, 23andMe, Sunnyvale, CA (2018–present)\nPrincipal Data Scientist, Calico Labs, South San Francisco, CA (2016–2018)\nData Scientist, Coursera, Mountain View, CA (2014–2016)\nPrincipal Scientist, Statistical Genetics, 23andMe, Mountain View, CA (2008–2014)\nVisiting Assistant Professor, University of Chicago, Department of Statistics (2007–2008)\nPostdoctoral Research Fellow, Stanford University, Department of Statistics (2006–2007)\nEmphasis in Computational and Genomic Biology, University of California, Berkeley (2001–2006)\nPh.D. Mathematics, University of California, Berkeley (2001–2006)\nS.B. Mathematics (Minor in Music), Massachusetts Institute of Technology (1997–2001)"
+    "text": "Experience and Education\n\nDirector, Machine Learning Integrated Phenotyping; insitro, South San Francisco, CA (2024–present)\nSenior Health R&D Scientist, 23andMe, Sunnyvale, CA (2018–2024)\nPrincipal Data Scientist, Calico Labs, South San Francisco, CA (2016–2018)\nData Scientist, Coursera, Mountain View, CA (2014–2016)\nPrincipal Scientist, Statistical Genetics, 23andMe, Mountain View, CA (2008–2014)\nVisiting Assistant Professor, University of Chicago, Department of Statistics (2007–2008)\nPostdoctoral Research Fellow, Stanford University, Department of Statistics (2006–2007)\nEmphasis in Computational and Genomic Biology, University of California, Berkeley (2001–2006)\nPh.D. Mathematics, University of California, Berkeley (2001–2006)\nS.B. Mathematics (Minor in Music), Massachusetts Institute of Technology (1997–2001)"
   },
   {
     "objectID": "index.html#honors-and-awards",

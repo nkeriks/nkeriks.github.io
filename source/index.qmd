@@ -17,9 +17,8 @@ where I studied the genetics of a wide range of complex traits, from
 I became a data scientist at <a href="http://coursera.org">Coursera</a> in 2014,
 where I worked to make online education more <a href="https://hbr.org/2015/09/whos-benefiting-from-moocs-and-why">effective</a>, available, and fun.
 After a stint at <a href="http://calicolabs.com"> Calico</a> working on [longevity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6752884/),
-I've returned to 23andMe, where I work on building data products to help customers
-improve their health outcomes.
-
+I returned to 23andMe, working on using ML and GWAS to enhance phenotypes and predict longitudinal health outcomes.
+I'm now at insitro, using genetics and multi-modal phenotyping to better understand human disease.
 
 
 ## Research Interests
@@ -31,7 +30,8 @@ improve their health outcomes.
 
 ## Experience and Education
 
-* Senior Health R\&D Scientist, **23andMe**, Sunnyvale, CA (2018--present)
+* Director, Machine Learning Integrated Phenotyping; **insitro**, South San Francisco, CA (2024--present)
+* Senior Health R\&D Scientist, **23andMe**, Sunnyvale, CA (2018--2024)
 * Principal Data Scientist, **Calico Labs**, South San Francisco, CA (2016--2018)
 * Data Scientist, **Coursera**, Mountain View, CA (2014--2016)
 * Principal Scientist, Statistical Genetics, **23andMe**, Mountain View, CA (2008--2014)
