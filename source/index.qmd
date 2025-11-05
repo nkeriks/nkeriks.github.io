@@ -30,7 +30,7 @@ I'm now at insitro, using genetics and multi-modal phenotyping to better underst
 
 ## Experience and Education
 
-* Director, Machine Learning Integrated Phenotyping; **insitro**, South San Francisco, CA (2024--present)
+* Senior Director, Clinical Machine Learning; **insitro**, South San Francisco, CA (2024--present)
 * Senior Health R\&D Scientist, **23andMe**, Sunnyvale, CA (2018--2024)
 * Principal Data Scientist, **Calico Labs**, South San Francisco, CA (2016--2018)
 * Data Scientist, **Coursera**, Mountain View, CA (2014--2016)
